@@ -1,26 +1,389 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
+     "sprookje": "The Grateful Prince",
+     "JAAR": "1866",
+     "LAND": "Estland",
+     "SCHRIJVER": "Friedrich Kreutzwald",
+     "BOEK": "Eestirahwa Ennemuistesed jutud",
+     "AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/10/the-grateful-prince.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Grateful_Prince"
+   },
+   {
+     "SPROOKJE": "The Gold-spinners",
+     "JAAR": "1866",
+     "LAND": "Estland1",
+     "SCHRIJVER": "Friedrich Kreutzwald",
+     "BOEK": "Eestirahwa Ennemuistesed jutud",
+     "AFBEELDING": "https://i.pinimg.com/originals/80/55/d3/8055d376bd55fa9763b5c9391ce56cd9.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Gold-spinners"
+   },
+   {
+     "SPROOKJE": "The Gifts of the Magician",
+     "JAAR": "1903",
+     "LAND": "Finland",
+     "SCHRIJVER": "Andrew Lang",
+     "BOEK": "",
+     "AFBEELDING": "https://i.pinimg.com/236x/7a/56/dd/7a56ddd67cbc3fc3f0379bf6be88775a.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Gifts_of_the_Magician"
+   },
+   {
+     "SPROOKJE": "Aurore and Aimee",
+     "JAAR": "1756",
+     "LAND": "Frankrijk",
+     "SCHRIJVER": "Jeanne-Marie Leprince de Beaumont",
+     "BOEK": "",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Crane_beauty5.jpg/383px-Crane_beauty5.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Aurore_and_Aimee"
+   },
+   {
+     "SPROOKJE": "Beauty and the Beast",
+     "JAAR": "1740",
+     "LAND": "Frankrijk1",
+     "SCHRIJVER": "Gabrielle-Suzanne Barbot de Villeneuve",
+     "BOEK": "",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Crane_beauty5.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast"
+   },
+   {
+     "SPROOKJE": "The Blue Bird",
+     "JAAR": "1698",
+     "LAND": "Frankrijk2",
+     "SCHRIJVER": "Madame d'Aulnoy",
+     "BOEK": "Les Contes des Fees",
+     "AFBEELDING": "https://favim.com/orig/201104/29/Favim.com-27844.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Blue_Bird_(fairy_tale)"
+   },
+   {
+     "SPROOKJE": "Cinderella",
+     "JAAR": "1697",
+     "LAND": "Frankrijk3",
+     "SCHRIJVER": "Charles Perrault",
+     "BOEK": "Mother Goose Tales",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cinderella_-_Anne_Anderson.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Cinderella"
+   },
+   {
+     "SPROOKJE": "The Hunchback of Notre Dame",
+     "JAAR": "1831",
+     "LAND": "Frankrijk4",
+     "SCHRIJVER": "Victor Hugo",
+     "BOEK": "",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Victor_Hugo-Hunchback.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame"
+   },
+   {
+     "SPROOKJE": "Little Red Riding Hood",
+     "JAAR": "1695",
+     "LAND": "Frankrijk5",
+     "SCHRIJVER": "Charles Perrault",
+     "BOEK": "Mother Goose Tales",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/9/91/GustaveDore_She_was_astonished_to_see_how_her_grandmother_looked.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+   },
+   {
+     "SPROOKJE": "Puss in Boots",
+     "JAAR": "1697",
+     "LAND": "Frankrijk6",
+     "SCHRIJVER": "Charles Perrault",
+     "BOEK": "Mother Goose Tales",
+     "AFBEELDING": "http://www.windmill.nildram.co.uk/images/puss_in_boots.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Puss_in_Boots"
+   },
+   {
+     "SPROOKJE": "The Golden Crab",
+     "JAAR": "1877",
+     "LAND": "Griekeland",
+     "SCHRIJVER": "Bernhard Schmidt",
+     "BOEK": "Sagen and Volkslieder",
+     "AFBEELDING": "https://www.lib.umich.edu/online-exhibits/files/original/1de28758df279f180356b5188ea3081c.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Golden_Crab"
+   },
+   {
+     "SPROOKJE": "How the Dragon was Tricked",
+     "JAAR": "1864",
+     "LAND": "Griekeland1",
+     "SCHRIJVER": "JG von Hahn",
+     "BOEK": "Griechtsche und Albanesische Marche",
+     "AFBEELDING": "http://s3.thingpic.com/images/CS/7ZXqTsXfzQvUZauhduENGKvq.jpeg",
+     "WIKI": "https://en.wikipedia.org/wiki/How_the_Dragon_was_Tricked"
+   },
+   {
+     "SPROOKJE": "Brother and Sister",
+     "JAAR": "1877",
+     "LAND": "Griekeland2",
+     "SCHRIJVER": "Georgias A. Megas",
+     "BOEK": "Folktales of Greece",
+     "AFBEELDING": "http://www.surlalunefairytales.com/illustrations/brothersister/images/gruelle_brother1.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Brother_and_Sister_(Greek_fairy_tale)"
+   },
+   {
+     "SPROOKJE": "The Happy Prince",
+     "JAAR": "1888",
+     "LAND": "Hongarije",
+     "SCHRIJVER": "Oscar Wilde",
+     "BOEK": "The Happy Prince and Other Tales",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Plate_1_of_The_Happy_Prince_and_Other_Tales_%281888%29.png",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales"
+   },
+   {
+     "SPROOKJE": "The Nightingale and the Rose",
+     "JAAR": "1888",
+     "LAND": "Hongarije1",
+     "SCHRIJVER": "Oscar Wilde",
+     "BOEK": "The Happy Prince and Other Tales",
+     "AFBEELDING": "https://i.pinimg.com/236x/e5/a9/61/e5a961c44d42dc4cca01c56455102403--nightingale-wilde.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales"
+   },
+   {
+     "SPROOKJE": "The Boy Who Could Keep A Secret",
+     "JAAR": "1756",
+     "LAND": "Hongarije2",
+     "SCHRIJVER": "",
+     "BOEK": "Folk Tales of Magyars",
+     "AFBEELDING": "https://i.pinimg.com/originals/b9/6c/98/b96c98dff2893d5f59e4d576caba7cb9.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Boy_Who_Could_Keep_A_Secret"
+   },
+   {
+     "SPROOKJE": "The Gold-bearded Man",
+     "JAAR": "1857",
+     "LAND": "Hongarije3",
+     "SCHRIJVER": "",
+     "BOEK": "Ungarische Marchen",
+     "AFBEELDING": "https://i.pinimg.com/originals/a4/25/17/a425175d2d8d1091ea680c408bc45f6f.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Gold-bearded_Man"
+   },
+   {
+     "SPROOKJE": "The Witch in the Stone Boat ",
+     "JAAR": "1884",
+     "LAND": "IJsland",
+     "SCHRIJVER": "Andrew Lang",
+     "BOEK": "The Yellow Fairy Book",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yellow_Fairy_Book-The_Witch_in_the_Stone_Boat1.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Witch_in_the_Stone_Boat"
+   },
+   {
+     "SPROOKJE": "How Geirald the Coward was Punished",
+     "JAAR": "1732",
+     "LAND": "IJsland1",
+     "SCHRIJVER": "",
+     "BOEK": "",
+     "AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/How_Geirald_the_Coward_was_Punished"
+   },
+   {
+     "SPROOKJE": "The Horse Gullfaxi and the Sword Gunnfoder",
+     "JAAR": "1823",
+     "LAND": "IJsland2",
+     "SCHRIJVER": "",
+     "BOEK": "Islandische Marchen",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Crimson_Fairy_Book-The_Horse_Gullfaxi_and_Sword_Gunnfoder2-Deadly_Hailstorm.jpg/220px-Crimson_Fairy_Book-The_Horse_Gullfaxi_and_Sword_Gunnfoder2-Deadly_Hailstorm.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Horse_Gullfaxi_and_the_Sword_Gunnfoder"
+   },
+   {
+     "SPROOKJE": "The Adventures of Pinocchio",
+     "JAAR": "1883",
+     "LAND": "Italie",
+     "SCHRIJVER": "Carlo Collodi",
+     "BOEK": "",
+     "AFBEELDING": "https://i.pinimg.com/236x/b7/7a/b0/b77ab00a74013c86a9bb63ba9e29e4e5--books-for-children-childrens-books.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio"
+   },
+   {
+     "SPROOKJE": "The Raven",
+     "JAAR": "1634",
+     "LAND": "Italie1",
+     "SCHRIJVER": "Giambattista Basile",
+     "BOEK": "Pentamerone",
+     "AFBEELDING": "https://vignette.wikia.nocookie.net/creepypasta/images/2/21/The_Raven.jpg/revision/latest?cb=20120322160008",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Raven_(Italian_fairy_tale)"
+   },
+   {
+     "SPROOKJE": "The Three Daughters of King O'Hara",
+     "JAAR": "1890",
+     "LAND": "Litouwen",
+     "SCHRIJVER": "Jeremiah Curtin",
+     "BOEK": "Myths and Folk-lore of Ireland",
+     "AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/08/three-daughters-king-ohara.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Three_Daughters_of_King_O%27Hara"
+   },
+   {
+     "SPROOKJE": "Egle the Queen of Serpents",
+     "JAAR": "1837",
+     "LAND": "Litouwen1",
+     "SCHRIJVER": "M. Jasewicz",
+     "BOEK": "",
+     "AFBEELDING": "https://europeisnotdead.files.wordpress.com/2012/05/lithuania-eglc497-the-queen-of-serpents.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Egle_the_Queen_of_Serpents"
+   },
+   {
+     "SPROOKJE": "The Blue Belt",
+     "JAAR": "1845",
+     "LAND": "Noorwegen",
+     "SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
+     "BOEK": "Norske Folkeeventyr",
+     "AFBEELDING": "https://i.pinimg.com/736x/42/94/92/4294928c61a211e984ca860e0b8590ed.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Blue_Belt"
+   },
+   {
+     "SPROOKJE": "Boots and His Brothers",
+     "JAAR": "1830",
+     "LAND": "Noorwegen1",
+     "SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
+     "BOEK": "Norske Folkeeventyr",
+     "AFBEELDING": "https://images.betterworldbooks.com/082/Boots-and-His-Brothers-Kimmel-Eric-A-9780823408863.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Boots_and_His_Brothers"
+   },
+   {
+     "SPROOKJE": "Boots Who Ate a Match with the Troll",
+     "JAAR": "1780",
+     "LAND": "Noorwegen2",
+     "SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
+     "BOEK": "Norske Folkeeventyr",
+     "AFBEELDING": "http://kurs.uib.no/dikult105_2013/dikult105_15/img/troll/askeladdentroll.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Boots_Who_Ate_a_Match_with_the_Troll"
+   },
+   {
+     "SPROOKJE": "The Lassie and Her Godmother",
+     "JAAR": "1845",
+     "LAND": "Noorwegen3",
+     "SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
+     "BOEK": "Norske Folkeeventyr",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kay_Nielsen_-_East_of_the_sun_and_west_of_the_moon_-_the_lassie_and_her_godmother_-_and_then_he_coaxed_her_down_and_took_her_home.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Lassie_and_Her_Godmother"
+   },
+   {
+     "SPROOKJE": "The Old Dame and Her Hen",
+     "JAAR": "1820",
+     "LAND": "Noorwegen4",
+     "SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
+     "BOEK": "Norske Folkeeventyr",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hona_tripper_i_Berget-Barn-Eventyr%281915%29p022.jpg/220px-Hona_tripper_i_Berget-Barn-Eventyr%281915%29p022.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Old_Dame_and_Her_Hen"
+   },
+   {
+     "SPROOKJE": "Three Billy Goats Gruff",
+     "JAAR": "1880",
+     "LAND": "Noorwegen5",
+     "SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
+     "BOEK": "",
+     "AFBEELDING": "http://1.bp.blogspot.com/-pynisfAHUSw/U_yphqwaDxI/AAAAAAAAED0/8thkVe3WwD8/s1600/goatsgruff.JPG",
+     "WIKI": "https://en.wikipedia.org/wiki/Three_Billy_Goats_Gruff"
+   },
+   {
+     "SPROOKJE": "The Glass Mountain",
+     "JAAR": "1799",
+     "LAND": "Polen",
+     "SCHRIJVER": "Hermann Kletke",
+     "BOEK": "",
+     "AFBEELDING": "https://2.bp.blogspot.com/-j7BdNKQSGQE/T72kLOad5jI/AAAAAAAAKv4/NxPD8AVPATM/s1600/the_seven_ravens_by_dunechampion-d3d3ayj.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Glass_Mountain_(fairy_tale)"
+   },
+   {
+     "SPROOKJE": "Clever Maria",
+     "JAAR": "1790",
+     "LAND": "Portugal",
+     "SCHRIJVER": "",
+     "BOEK": "",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Crimson_Fairy_Book_-_Clever_Maria_1.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Clever_Maria",
+   },
+   {
+     "SPROOKJE": "The Boys with the Golden Stars",
+     "JAAR": "1864",
+     "LAND": "Roemenie",
+     "SCHRIJVER": "",
+     "BOEK": "Rumanische Marchen",
+     "AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/10/boys-golden-stars.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Boys_with_the_Golden_Stars"
+   },
+   {
+     "SPROOKJE": "The Enchanted Pig",
+     "JAAR": "1822",
+     "LAND": "Roemenie1",
+     "SCHRIJVER": "",
+     "BOEK": "Rumanische Marchen",
+     "AFBEELDING": "https://68.media.tumblr.com/6716e946282d1728482504b1f502645c/tumblr_nk6alnqasK1sn8kzpo1_1280.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Enchanted_Pig"
+   },
+   {
+     "SPROOKJE": "The Bear",
+     "JAAR": "1900",
+     "LAND": "Schotland",
+     "SCHRIJVER": "Andrew Lang",
+     "BOEK": "The Grey Fairy Book",
+     "AFBEELDING": "https://i.pinimg.com/736x/c3/61/d4/c361d43c1c1648c4b134890f48735760--fairy-tale-illustrations-vintage-illustrations.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Bear_(fairy_tale)"
+   },
+   {
+     "SPROOKJE": "The Golden Key",
+     "JAAR": "1867",
+     "LAND": "Schotland1",
+     "SCHRIJVER": "George MacDonald",
+     "BOEK": "",
+     "AFBEELDING": "https://static1.squarespace.com/static/5578a07fe4b0a20ad94210dc/5601f094e4b04aa9439b9637/5601f09ce4b0f30d0693e555/1442967708955/GK_p22_23_Layers.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Golden_Key"
+   },
+   {
+     "SPROOKJE": "The Light Princess",
+     "JAAR": "1864",
+     "LAND": "Schotland2",
+     "SCHRIJVER": "George MacDonald",
+     "BOEK": "",
+     "AFBEELDING": "http://www.nwhgeopark.com/wp-content/uploads/assynt-banner1.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Light_Princess"
+   },
+   {
+     "SPROOKJE": "The Sea-Maiden",
+     "JAAR": "1890",
+     "LAND": "Schotland3",
+     "SCHRIJVER": "John Francis Campbell",
+     "BOEK": "Popular Tales of the West Highlands",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/6/60/Herbert_James_Draper%2C_The_Sea_Maiden.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Sea-Maiden"
+   },
+   {
+     "SPROOKJE": "Whuppity Stoorie",
+     "JAAR": "1858",
+     "LAND": "Schotland4",
+     "SCHRIJVER": "Robert Chambers",
+     "BOEK": "Popular Rhymes of Scotland",
+     "AFBEELDING": "https://ih0.redbubble.net/image.13565973.3396/flat",
+     "WIKI": "https://en.wikipedia.org/wiki/Whuppity_Stoorie",
+   },
+   {
+     "SPROOKJE": "The Dragon and the Prince",
+     "JAAR": "1890",
+     "LAND": "Servie",
+     "SCHRIJVER": "A. H. Wratislaw",
+     "BOEK": "Sixty Folk-Tales from Exclusively Slavonic Sources",
+     "AFBEELDING": "https://www.booktopia.com.au/http_coversbooktopiacomau/big/9781848105904/the-prince-and-the-dragon-and-other-stories.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Dragon_and_the_Prince"
+   },
+   {
+     "SPROOKJE": "Perez Mouse",
+     "JAAR": "1896",
+     "LAND": "Spanje",
+     "SCHRIJVER": "Luis Coloma",
+     "BOEK": "",
+     "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Raton_Perez_%28Cuento%29_pg_1.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/Ratoncito_Pérez"
+   },
+   {
+     "SPROOKJE": "The Boy Who Found Fear At Last",
+     "JAAR": "1780",
+     "LAND": "Turkije",
+     "SCHRIJVER": "",
+     "BOEK": "",
+     "AFBEELDING": "https://ebooks.adelaide.edu.au/l/lang/andrew/l26ol/images/ofb49.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Boy_Who_Found_Fear_At_Last"
+   },
+   {
+     "SPROOKJE": "The Bird 'Grip",
+     "JAAR": "1823",
+     "LAND": "Zweden",
+     "SCHRIJVER": "",
+     "BOEK": "",
+     "AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Bird_%27Grip%27"
+   }
 ]
