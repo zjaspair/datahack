@@ -1,5 +1,4 @@
-{
-  "sprookjes" : [
+[
    {
      "SPROOKJE": "The Grateful Prince",
      "JAAR": "1866",
@@ -387,5 +386,4 @@
      "AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
      "WIKI": "https://en.wikipedia.org/wiki/The_Bird_%27Grip%27"
    }
-  ]
- }
+]
