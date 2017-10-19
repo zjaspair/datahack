@@ -17,30 +17,6 @@
      "BOEK": "Eestirahwa Ennemuistesed jutud",
      "AFBEELDING": "https://i.pinimg.com/originals/80/55/d3/8055d376bd55fa9763b5c9391ce56cd9.jpg",
      "WIKI": "https://en.wikipedia.org/wiki/The_Gold-spinners"
-    },
-    {
-      "name": "Meowsy",
-      "species" : "cat",
-      "foods": {
-        "likes": ["tuna", "catnip"],
-        "dislikes": ["ham", "zucchini"]
-      }
-    },
-    {
-      "name": "Barky",
-      "species" : "dog",
-      "foods": {
-        "likes": ["bones", "carrots"],
-        "dislikes": ["tuna"]
-      }
-    },
-    {
-      "name": "Purrpaws",
-      "species" : "cat",
-      "foods": {
-        "likes": ["mice"],
-        "dislikes": ["cookies"]
-      }
     }
   ]
 }
