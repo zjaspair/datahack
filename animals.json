@@ -1,5 +1,14 @@
 [
   {
+    "sprookje": "The Grateful Prince",
+    "JAAR": "1866",
+    "LAND": "Estland",
+    "SCHRIJVER": "Friedrich Kreutzwald",
+    "BOEK": "Eestirahwa Ennemuistesed jutud",
+    "AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/10/the-grateful-prince.jpg",
+    "WIKI": "https://en.wikipedia.org/wiki/The_Grateful_Prince"
+  },
+  {
     "name": "Meowsy",
     "species" : "cat",
     "foods": {
