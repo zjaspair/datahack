@@ -286,7 +286,7 @@
      "SCHRIJVER": "",
      "BOEK": "",
      "AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Crimson_Fairy_Book_-_Clever_Maria_1.jpg",
-     "WIKI": "https://en.wikipedia.org/wiki/Clever_Maria",
+     "WIKI": "https://en.wikipedia.org/wiki/Clever_Maria"
    },
    {
      "SPROOKJE": "The Boys with the Golden Stars",
@@ -386,6 +386,6 @@
      "BOEK": "",
      "AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
      "WIKI": "https://en.wikipedia.org/wiki/The_Bird_%27Grip%27"
-   }
+    }
   ]
 }
