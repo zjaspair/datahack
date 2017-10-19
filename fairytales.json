@@ -386,30 +386,6 @@
      "BOEK": "",
      "AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
      "WIKI": "https://en.wikipedia.org/wiki/The_Bird_%27Grip%27"
-   },
-    {
-      "name": "Meowsy",
-      "species" : "cat",
-      "foods": {
-        "likes": ["tuna", "catnip"],
-        "dislikes": ["ham", "zucchini"]
-      }
-    },
-    {
-      "name": "Barky",
-      "species" : "dog",
-      "foods": {
-        "likes": ["bones", "carrots"],
-        "dislikes": ["tuna"]
-      }
-    },
-    {
-      "name": "Purrpaws",
-      "species" : "cat",
-      "foods": {
-        "likes": ["mice"],
-        "dislikes": ["cookies"]
-      }
-    }
+   }
   ]
 }
