@@ -10,6 +10,15 @@
       "WIKI": "https://en.wikipedia.org/wiki/The_Grateful_Prince"
     },
     {
+     "SPROOKJE": "The Gold-spinners",
+     "JAAR": "1866",
+     "LAND": "Estland1",
+     "SCHRIJVER": "Friedrich Kreutzwald",
+     "BOEK": "Eestirahwa Ennemuistesed jutud",
+     "AFBEELDING": "https://i.pinimg.com/originals/80/55/d3/8055d376bd55fa9763b5c9391ce56cd9.jpg",
+     "WIKI": "https://en.wikipedia.org/wiki/The_Gold-spinners"
+    },
+    {
       "name": "Meowsy",
       "species" : "cat",
       "foods": {
