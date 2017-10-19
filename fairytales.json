@@ -1,4 +1,5 @@
-[
+{
+   sprookje : [
    {
      "sprookje": "The Grateful Prince",
      "JAAR": "1866",
@@ -387,3 +388,4 @@
      "WIKI": "https://en.wikipedia.org/wiki/The_Bird_%27Grip%27"
    }
 ]
+}
