@@ -2,7 +2,7 @@
 	"sprookjes": [
     {
 			"SPROOKJE": "The Grateful Prince",
-			"JAAR": "1866",
+			"JAAR": 1866,
 			"LAND": "Estland",
 			"SCHRIJVER": "Friedrich Kreutzwald",
 			"BOEK": "Eestirahwa Ennemuistesed jutud",
@@ -11,7 +11,7 @@
 		},
 		{
 			"SPROOKJE": "The Gold-spinners",
-			"JAAR": "1866",
+			"JAAR": 1866,
 			"LAND": "Estland",
 			"SCHRIJVER": "Friedrich Kreutzwald",
 			"BOEK": "Eestirahwa Ennemuistesed jutud",
@@ -20,7 +20,7 @@
 		},
 		{
 			"SPROOKJE": "The Gifts of the Magician",
-			"JAAR": "1903",
+			"JAAR": 1903,
 			"LAND": "Finland",
 			"SCHRIJVER": "Andrew Lang",
 			"BOEK": "",
@@ -29,7 +29,7 @@
 		},
 		{
 			"SPROOKJE": "Aurore and Aimee",
-			"JAAR": "1756",
+			"JAAR": 1756,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Jeanne-Marie Leprince de Beaumont",
 			"BOEK": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"SPROOKJE": "Beauty and the Beast",
-			"JAAR": "1740",
+			"JAAR": 1740,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Gabrielle-Suzanne Barbot de Villeneuve",
 			"BOEK": "",
@@ -47,7 +47,7 @@
 		},
 		{
 			"SPROOKJE": "The Blue Bird",
-			"JAAR": "1698",
+			"JAAR": 1698,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Madame d'Aulnoy",
 			"BOEK": "Les Contes des Fees",
@@ -56,7 +56,7 @@
 		},
 		{
 			"SPROOKJE": "Cinderella",
-			"JAAR": "1697",
+			"JAAR": 1697,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Charles Perrault",
 			"BOEK": "Mother Goose Tales",
@@ -65,7 +65,7 @@
 		},
 		{
 			"SPROOKJE": "The Hunchback of Notre Dame",
-			"JAAR": "1831",
+			"JAAR": 1831,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Victor Hugo",
 			"BOEK": "",
@@ -74,7 +74,7 @@
 		},
 		{
 			"SPROOKJE": "Little Red Riding Hood",
-			"JAAR": "1695",
+			"JAAR": 1695,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Charles Perrault",
 			"BOEK": "Mother Goose Tales",
@@ -83,7 +83,7 @@
 		},
 		{
 			"SPROOKJE": "Puss in Boots",
-			"JAAR": "1697",
+			"JAAR": 1697,
 			"LAND": "Frankrijk",
 			"SCHRIJVER": "Charles Perrault",
 			"BOEK": "Mother Goose Tales",
@@ -92,7 +92,7 @@
 		},
 		{
 			"SPROOKJE": "The Golden Crab",
-			"JAAR": "1877",
+			"JAAR": 1877,
 			"LAND": "Griekeland",
 			"SCHRIJVER": "Bernhard Schmidt",
 			"BOEK": "Sagen and Volkslieder",
@@ -110,7 +110,7 @@
 		},
 		{
 			"SPROOKJE": "Brother and Sister",
-			"JAAR": "1877",
+			"JAAR": 1877,
 			"LAND": "Griekeland",
 			"SCHRIJVER": "Georgias A. Megas",
 			"BOEK": "Folktales of Greece",
@@ -119,7 +119,7 @@
 		},
 		{
 			"SPROOKJE": "The Happy Prince",
-			"JAAR": "1888",
+			"JAAR": 1888,
 			"LAND": "Hongarije",
 			"SCHRIJVER": "Oscar Wilde",
 			"BOEK": "The Happy Prince and Other Tales",
@@ -128,7 +128,7 @@
 		},
 		{
 			"SPROOKJE": "The Nightingale and the Rose",
-			"JAAR": "1888",
+			"JAAR": 1888,
 			"LAND": "Hongarije",
 			"SCHRIJVER": "Oscar Wilde",
 			"BOEK": "The Happy Prince and Other Tales",
@@ -137,7 +137,7 @@
 		},
 		{
 			"SPROOKJE": "The Boy Who Could Keep A Secret",
-			"JAAR": "1756",
+			"JAAR": 1756,
 			"LAND": "Hongarije",
 			"SCHRIJVER": "",
 			"BOEK": "Folk Tales of Magyars",
@@ -146,7 +146,7 @@
 		},
 		{
 			"SPROOKJE": "The Gold-bearded Man",
-			"JAAR": "1857",
+			"JAAR": 1857,
 			"LAND": "Hongarije",
 			"SCHRIJVER": "",
 			"BOEK": "Ungarische Marchen",
@@ -155,7 +155,7 @@
 		},
 		{
 			"SPROOKJE": "The Witch in the Stone Boat ",
-			"JAAR": "1884",
+			"JAAR": 1884,
 			"LAND": "IJsland",
 			"SCHRIJVER": "Andrew Lang",
 			"BOEK": "The Yellow Fairy Book",
@@ -164,7 +164,7 @@
 		},
 		{
 			"SPROOKJE": "How Geirald the Coward was Punished",
-			"JAAR": "1732",
+			"JAAR": 1732,
 			"LAND": "IJsland",
 			"SCHRIJVER": "",
 			"BOEK": "",
@@ -173,7 +173,7 @@
 		},
 		{
 			"SPROOKJE": "The Horse Gullfaxi and the Sword Gunnfoder",
-			"JAAR": "1823",
+			"JAAR": 1823,
 			"LAND": "IJsland",
 			"SCHRIJVER": "",
 			"BOEK": "Islandische Marchen",
@@ -182,7 +182,7 @@
 		},
 		{
 			"SPROOKJE": "The Adventures of Pinocchio",
-			"JAAR": "1883",
+			"JAAR": 1883,
 			"LAND": "Italie",
 			"SCHRIJVER": "Carlo Collodi",
 			"BOEK": "",
@@ -191,7 +191,7 @@
 		},
 		{
 			"SPROOKJE": "The Raven",
-			"JAAR": "1634",
+			"JAAR": 1634,
 			"LAND": "Italie",
 			"SCHRIJVER": "Giambattista Basile",
 			"BOEK": "Pentamerone",
@@ -200,7 +200,7 @@
 		},
 		{
 			"SPROOKJE": "The Three Daughters of King O'Hara",
-			"JAAR": "1890",
+			"JAAR": 1890,
 			"LAND": "Litouwen",
 			"SCHRIJVER": "Jeremiah Curtin",
 			"BOEK": "Myths and Folk-lore of Ireland",
@@ -209,7 +209,7 @@
 		},
 		{
 			"SPROOKJE": "Egle the Queen of Serpents",
-			"JAAR": "1837",
+			"JAAR": 1837,
 			"LAND": "Litouwen",
 			"SCHRIJVER": "M. Jasewicz",
 			"BOEK": "",
@@ -218,7 +218,7 @@
 		},
 		{
 			"SPROOKJE": "The Blue Belt",
-			"JAAR": "1845",
+			"JAAR": 1845,
 			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
@@ -227,7 +227,7 @@
 		},
 		{
 			"SPROOKJE": "Boots and His Brothers",
-			"JAAR": "1830",
+			"JAAR": 1830,
 			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
@@ -236,7 +236,7 @@
 		},
 		{
 			"SPROOKJE": "Boots Who Ate a Match with the Troll",
-			"JAAR": "1780",
+			"JAAR": 1780,
 			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
@@ -245,7 +245,7 @@
 		},
 		{
 			"SPROOKJE": "The Lassie and Her Godmother",
-			"JAAR": "1845",
+			"JAAR": 1845,
 			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
@@ -254,7 +254,7 @@
 		},
 		{
 			"SPROOKJE": "The Old Dame and Her Hen",
-			"JAAR": "1820",
+			"JAAR": 1820,
 			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
@@ -263,7 +263,7 @@
 		},
 		{
 			"SPROOKJE": "Three Billy Goats Gruff",
-			"JAAR": "1880",
+			"JAAR": 1880,
 			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "",
@@ -272,7 +272,7 @@
 		},
 		{
 			"SPROOKJE": "The Glass Mountain",
-			"JAAR": "1799",
+			"JAAR": 1799,
 			"LAND": "Polen",
 			"SCHRIJVER": "Hermann Kletke",
 			"BOEK": "",
@@ -281,7 +281,7 @@
 		},
 		{
 			"SPROOKJE": "Clever Maria",
-			"JAAR": "1790",
+			"JAAR": 1790,
 			"LAND": "Portugal",
 			"SCHRIJVER": "",
 			"BOEK": "",
@@ -290,7 +290,7 @@
 		},
 		{
 			"SPROOKJE": "The Boys with the Golden Stars",
-			"JAAR": "1864",
+			"JAAR": 1864,
 			"LAND": "Roemenie",
 			"SCHRIJVER": "",
 			"BOEK": "Rumanische Marchen",
@@ -299,7 +299,7 @@
 		},
 		{
 			"SPROOKJE": "The Enchanted Pig",
-			"JAAR": "1822",
+			"JAAR": 1822,
 			"LAND": "Roemenie",
 			"SCHRIJVER": "",
 			"BOEK": "Rumanische Marchen",
@@ -308,7 +308,7 @@
 		},
 		{
 			"SPROOKJE": "The Bear",
-			"JAAR": "1900",
+			"JAAR": 1900,
 			"LAND": "Schotland",
 			"SCHRIJVER": "Andrew Lang",
 			"BOEK": "The Grey Fairy Book",
@@ -317,7 +317,7 @@
 		},
 		{
 			"SPROOKJE": "The Golden Key",
-			"JAAR": "1867",
+			"JAAR": 1867,
 			"LAND": "Schotland",
 			"SCHRIJVER": "George MacDonald",
 			"BOEK": "",
@@ -326,7 +326,7 @@
 		},
 		{
 			"SPROOKJE": "The Light Princess",
-			"JAAR": "1864",
+			"JAAR": 1864,
 			"LAND": "Schotland",
 			"SCHRIJVER": "George MacDonald",
 			"BOEK": "",
@@ -335,7 +335,7 @@
 		},
 		{
 			"SPROOKJE": "The Sea-Maiden",
-			"JAAR": "1890",
+			"JAAR": 1890,
 			"LAND": "Schotland",
 			"SCHRIJVER": "John Francis Campbell",
 			"BOEK": "Popular Tales of the West Highlands",
@@ -344,7 +344,7 @@
 		},
 		{
 			"SPROOKJE": "Whuppity Stoorie",
-			"JAAR": "1858",
+			"JAAR": 1858,
 			"LAND": "Schotland",
 			"SCHRIJVER": "Robert Chambers",
 			"BOEK": "Popular Rhymes of Scotland",
@@ -353,7 +353,7 @@
 		},
 		{
 			"SPROOKJE": "The Dragon and the Prince",
-			"JAAR": "1890",
+			"JAAR": 1890,
 			"LAND": "Servie",
 			"SCHRIJVER": "A. H. Wratislaw",
 			"BOEK": "Sixty Folk-Tales from Exclusively Slavonic Sources",
@@ -362,7 +362,7 @@
 		},
 		{
 			"SPROOKJE": "Perez Mouse",
-			"JAAR": "1896",
+			"JAAR": 1896,
 			"LAND": "Spanje",
 			"SCHRIJVER": "Luis Coloma",
 			"BOEK": "",
@@ -371,7 +371,7 @@
 		},
 		{
 			"SPROOKJE": "The Boy Who Found Fear At Last",
-			"JAAR": "1780",
+			"JAAR": 1780,
 			"LAND": "Turkije",
 			"SCHRIJVER": "",
 			"BOEK": "",
@@ -380,7 +380,7 @@
 		},
 		{
 			"SPROOKJE": "The Bird 'Grip",
-			"JAAR": "1823",
+			"JAAR": 1823,
 			"LAND": "Zweden",
 			"SCHRIJVER": "",
 			"BOEK": "",
