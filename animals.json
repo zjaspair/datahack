@@ -12,7 +12,7 @@
 		{
 			"SPROOKJE": "The Gold-spinners",
 			"JAAR": "1866",
-			"LAND": "Estland1",
+			"LAND": "Estland",
 			"SCHRIJVER": "Friedrich Kreutzwald",
 			"BOEK": "Eestirahwa Ennemuistesed jutud",
 			"AFBEELDING": "https://i.pinimg.com/originals/80/55/d3/8055d376bd55fa9763b5c9391ce56cd9.jpg",
@@ -39,7 +39,7 @@
 		{
 			"SPROOKJE": "Beauty and the Beast",
 			"JAAR": "1740",
-			"LAND": "Frankrijk1",
+			"LAND": "Frankrijk",
 			"SCHRIJVER": "Gabrielle-Suzanne Barbot de Villeneuve",
 			"BOEK": "",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Crane_beauty5.jpg",
@@ -48,7 +48,7 @@
 		{
 			"SPROOKJE": "The Blue Bird",
 			"JAAR": "1698",
-			"LAND": "Frankrijk2",
+			"LAND": "Frankrijk",
 			"SCHRIJVER": "Madame d'Aulnoy",
 			"BOEK": "Les Contes des Fees",
 			"AFBEELDING": "https://favim.com/orig/201104/29/Favim.com-27844.jpg",
@@ -57,7 +57,7 @@
 		{
 			"SPROOKJE": "Cinderella",
 			"JAAR": "1697",
-			"LAND": "Frankrijk3",
+			"LAND": "Frankrijk",
 			"SCHRIJVER": "Charles Perrault",
 			"BOEK": "Mother Goose Tales",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cinderella_-_Anne_Anderson.jpg",
@@ -66,7 +66,7 @@
 		{
 			"SPROOKJE": "The Hunchback of Notre Dame",
 			"JAAR": "1831",
-			"LAND": "Frankrijk4",
+			"LAND": "Frankrijk",
 			"SCHRIJVER": "Victor Hugo",
 			"BOEK": "",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Victor_Hugo-Hunchback.jpg",
@@ -75,7 +75,7 @@
 		{
 			"SPROOKJE": "Little Red Riding Hood",
 			"JAAR": "1695",
-			"LAND": "Frankrijk5",
+			"LAND": "Frankrijk",
 			"SCHRIJVER": "Charles Perrault",
 			"BOEK": "Mother Goose Tales",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/9/91/GustaveDore_She_was_astonished_to_see_how_her_grandmother_looked.jpg",
@@ -84,7 +84,7 @@
 		{
 			"SPROOKJE": "Puss in Boots",
 			"JAAR": "1697",
-			"LAND": "Frankrijk6",
+			"LAND": "Frankrijk",
 			"SCHRIJVER": "Charles Perrault",
 			"BOEK": "Mother Goose Tales",
 			"AFBEELDING": "http://www.windmill.nildram.co.uk/images/puss_in_boots.jpg",
@@ -102,7 +102,7 @@
 		{
 			"SPROOKJE": "How the Dragon was Tricked",
 			"JAAR": "1864",
-			"LAND": "Griekeland1",
+			"LAND": "Griekeland",
 			"SCHRIJVER": "JG von Hahn",
 			"BOEK": "Griechtsche und Albanesische Marche",
 			"AFBEELDING": "http://s3.thingpic.com/images/CS/7ZXqTsXfzQvUZauhduENGKvq.jpeg",
@@ -111,7 +111,7 @@
 		{
 			"SPROOKJE": "Brother and Sister",
 			"JAAR": "1877",
-			"LAND": "Griekeland2",
+			"LAND": "Griekeland",
 			"SCHRIJVER": "Georgias A. Megas",
 			"BOEK": "Folktales of Greece",
 			"AFBEELDING": "http://www.surlalunefairytales.com/illustrations/brothersister/images/gruelle_brother1.jpg",
@@ -129,7 +129,7 @@
 		{
 			"SPROOKJE": "The Nightingale and the Rose",
 			"JAAR": "1888",
-			"LAND": "Hongarije1",
+			"LAND": "Hongarije",
 			"SCHRIJVER": "Oscar Wilde",
 			"BOEK": "The Happy Prince and Other Tales",
 			"AFBEELDING": "https://i.pinimg.com/236x/e5/a9/61/e5a961c44d42dc4cca01c56455102403--nightingale-wilde.jpg",
@@ -138,7 +138,7 @@
 		{
 			"SPROOKJE": "The Boy Who Could Keep A Secret",
 			"JAAR": "1756",
-			"LAND": "Hongarije2",
+			"LAND": "Hongarije",
 			"SCHRIJVER": "",
 			"BOEK": "Folk Tales of Magyars",
 			"AFBEELDING": "https://i.pinimg.com/originals/b9/6c/98/b96c98dff2893d5f59e4d576caba7cb9.jpg",
@@ -147,7 +147,7 @@
 		{
 			"SPROOKJE": "The Gold-bearded Man",
 			"JAAR": "1857",
-			"LAND": "Hongarije3",
+			"LAND": "Hongarije",
 			"SCHRIJVER": "",
 			"BOEK": "Ungarische Marchen",
 			"AFBEELDING": "https://i.pinimg.com/originals/a4/25/17/a425175d2d8d1091ea680c408bc45f6f.jpg",
@@ -165,7 +165,7 @@
 		{
 			"SPROOKJE": "How Geirald the Coward was Punished",
 			"JAAR": "1732",
-			"LAND": "IJsland1",
+			"LAND": "IJsland",
 			"SCHRIJVER": "",
 			"BOEK": "",
 			"AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
@@ -174,7 +174,7 @@
 		{
 			"SPROOKJE": "The Horse Gullfaxi and the Sword Gunnfoder",
 			"JAAR": "1823",
-			"LAND": "IJsland2",
+			"LAND": "IJsland",
 			"SCHRIJVER": "",
 			"BOEK": "Islandische Marchen",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Crimson_Fairy_Book-The_Horse_Gullfaxi_and_Sword_Gunnfoder2-Deadly_Hailstorm.jpg/220px-Crimson_Fairy_Book-The_Horse_Gullfaxi_and_Sword_Gunnfoder2-Deadly_Hailstorm.jpg",
@@ -192,7 +192,7 @@
 		{
 			"SPROOKJE": "The Raven",
 			"JAAR": "1634",
-			"LAND": "Italie1",
+			"LAND": "Italie",
 			"SCHRIJVER": "Giambattista Basile",
 			"BOEK": "Pentamerone",
 			"AFBEELDING": "https://vignette.wikia.nocookie.net/creepypasta/images/2/21/The_Raven.jpg/revision/latest?cb=20120322160008",
@@ -210,7 +210,7 @@
 		{
 			"SPROOKJE": "Egle the Queen of Serpents",
 			"JAAR": "1837",
-			"LAND": "Litouwen1",
+			"LAND": "Litouwen",
 			"SCHRIJVER": "M. Jasewicz",
 			"BOEK": "",
 			"AFBEELDING": "https://europeisnotdead.files.wordpress.com/2012/05/lithuania-eglc497-the-queen-of-serpents.jpg",
@@ -228,7 +228,7 @@
 		{
 			"SPROOKJE": "Boots and His Brothers",
 			"JAAR": "1830",
-			"LAND": "Noorwegen1",
+			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
 			"AFBEELDING": "https://images.betterworldbooks.com/082/Boots-and-His-Brothers-Kimmel-Eric-A-9780823408863.jpg",
@@ -237,7 +237,7 @@
 		{
 			"SPROOKJE": "Boots Who Ate a Match with the Troll",
 			"JAAR": "1780",
-			"LAND": "Noorwegen2",
+			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
 			"AFBEELDING": "http://kurs.uib.no/dikult105_2013/dikult105_15/img/troll/askeladdentroll.jpg",
@@ -246,7 +246,7 @@
 		{
 			"SPROOKJE": "The Lassie and Her Godmother",
 			"JAAR": "1845",
-			"LAND": "Noorwegen3",
+			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kay_Nielsen_-_East_of_the_sun_and_west_of_the_moon_-_the_lassie_and_her_godmother_-_and_then_he_coaxed_her_down_and_took_her_home.jpg",
@@ -255,7 +255,7 @@
 		{
 			"SPROOKJE": "The Old Dame and Her Hen",
 			"JAAR": "1820",
-			"LAND": "Noorwegen4",
+			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "Norske Folkeeventyr",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hona_tripper_i_Berget-Barn-Eventyr%281915%29p022.jpg/220px-Hona_tripper_i_Berget-Barn-Eventyr%281915%29p022.jpg",
@@ -264,7 +264,7 @@
 		{
 			"SPROOKJE": "Three Billy Goats Gruff",
 			"JAAR": "1880",
-			"LAND": "Noorwegen5",
+			"LAND": "Noorwegen",
 			"SCHRIJVER": "Peter Chr. Asbjornsen and Jorgen Moe",
 			"BOEK": "",
 			"AFBEELDING": "http://1.bp.blogspot.com/-pynisfAHUSw/U_yphqwaDxI/AAAAAAAAED0/8thkVe3WwD8/s1600/goatsgruff.JPG",
@@ -300,7 +300,7 @@
 		{
 			"SPROOKJE": "The Enchanted Pig",
 			"JAAR": "1822",
-			"LAND": "Roemenie1",
+			"LAND": "Roemenie",
 			"SCHRIJVER": "",
 			"BOEK": "Rumanische Marchen",
 			"AFBEELDING": "https://68.media.tumblr.com/6716e946282d1728482504b1f502645c/tumblr_nk6alnqasK1sn8kzpo1_1280.jpg",
@@ -318,7 +318,7 @@
 		{
 			"SPROOKJE": "The Golden Key",
 			"JAAR": "1867",
-			"LAND": "Schotland1",
+			"LAND": "Schotland",
 			"SCHRIJVER": "George MacDonald",
 			"BOEK": "",
 			"AFBEELDING": "https://static1.squarespace.com/static/5578a07fe4b0a20ad94210dc/5601f094e4b04aa9439b9637/5601f09ce4b0f30d0693e555/1442967708955/GK_p22_23_Layers.jpg",
@@ -327,7 +327,7 @@
 		{
 			"SPROOKJE": "The Light Princess",
 			"JAAR": "1864",
-			"LAND": "Schotland2",
+			"LAND": "Schotland",
 			"SCHRIJVER": "George MacDonald",
 			"BOEK": "",
 			"AFBEELDING": "http://www.nwhgeopark.com/wp-content/uploads/assynt-banner1.jpg",
@@ -336,7 +336,7 @@
 		{
 			"SPROOKJE": "The Sea-Maiden",
 			"JAAR": "1890",
-			"LAND": "Schotland3",
+			"LAND": "Schotland",
 			"SCHRIJVER": "John Francis Campbell",
 			"BOEK": "Popular Tales of the West Highlands",
 			"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/6/60/Herbert_James_Draper%2C_The_Sea_Maiden.jpg",
@@ -345,7 +345,7 @@
 		{
 			"SPROOKJE": "Whuppity Stoorie",
 			"JAAR": "1858",
-			"LAND": "Schotland4",
+			"LAND": "Schotland",
 			"SCHRIJVER": "Robert Chambers",
 			"BOEK": "Popular Rhymes of Scotland",
 			"AFBEELDING": "https://ih0.redbubble.net/image.13565973.3396/flat",
