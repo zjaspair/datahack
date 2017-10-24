@@ -1,614 +1,530 @@
 [
-
-	{
-		"SPROOKJE": "The Emperor's New Clothes",
-		"JAAR": "1837",
-		"LAND": "Denemarken",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "Fairy Tales Told for Children. First Collection.",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/4/47/Emperor_Clothes_01.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes"
-	},
-	{
-		"SPROOKJE": "The Little Mermaid",
-		"JAAR": "1836",
-		"LAND": "Denemarken1",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "Fairy Tales Told for Children. First Collection.",
-		"AFBEELDING": "https://dettoldisney.files.wordpress.com/2011/11/little-mermaid-andersen.jpg"
-	},
-	{
-		"SPROOKJE": "The Princess and the Pea",
-		"JAAR": "1800",
-		"LAND": "Denemarken2",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "Fairy Tales Told for Children. First Collection.",
-		"AFBEELDING": "https://i.pinimg.com/736x/b1/ca/1f/b1ca1f8d558a20ad1f1e0dbb41e3a548--ladybird-ladybird-princess-and-the-pea.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Princess_and_the_Pea"
-	},
-	{
-		"SPROOKJE": "The Red Shoes",
-		"JAAR": "1844",
-		"LAND": "Denemarken3",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "",
-		"AFBEELDING": "https://3.bp.blogspot.com/-Hc1sPvj1pP4/WBOAQl_vyDI/AAAAAAAACbM/Idy5MHjYFx8kjmrAbYP_6dufjHDhqX0uwCLcB/s1600/Screen%2BShot%2B2016-10-28%2Bat%2B17.37.33.png",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Red_Shoes_(fairy_tale)"
-	},
-	{
-		"SPROOKJE": "The Snow Queen",
-		"JAAR": "1845",
-		"LAND": "Denemarken4",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_Snow_Queen_by_Elena_Ringo.jpg/300px-The_Snow_Queen_by_Elena_Ringo.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Snow_Queen"
-	},
-	{
-		"SPROOKJE": "Thumbelina",
-		"JAAR": "1836",
-		"LAND": "Denemarken5",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "Fairy Tales Told for Children. First Collection.",
-		"AFBEELDING": "http://artscape.us/andersens-tales-1893/thumbelina-02.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Thumbelina"
-	},
-	{
-		"SPROOKJE": "The Ugly Duckling",
-		"JAAR": "1863",
-		"LAND": "Denemarken6",
-		"SCHRIJVER": "Hans Christian Andersen",
-		"BOEK": "New Fairy Tales (1844)",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Duckling_03.jpg/250px-Duckling_03.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Ugly_Duckling"
-	},
-	{
-		"SPROOKJE": "\"Bambi",
-		"JAAR": " a Life in the Woods\"",
-		"LAND": "1923",
-		"SCHRIJVER": "Duitsland",
-		"BOEK": "Felix Salten",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Bambi_book_cover.jpg/220px-Bambi_book_cover.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Bambi"
-	},
-	{
-		"SPROOKJE": "The Frog Prince",
-		"JAAR": "1842",
-		"LAND": "Duitsland1",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/5/53/GmimmTheFrogPrince.gif",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Frog_Prince"
-	},
-	{
-		"SPROOKJE": "Golden Goose",
-		"JAAR": "1812",
-		"LAND": "Duitsland2",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://i.pinimg.com/originals/d9/fb/aa/d9fbaa3bed75bd8b411ce6d9b33ae24c.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Golden_Goose"
-	},
-	{
-		"SPROOKJE": "Hansel and Gretel",
-		"JAAR": "1812",
-		"LAND": "Duitsland3",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hansel-and-gretel-rackham.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Hansel_and_Gretel"
-	},
-	{
-		"SPROOKJE": "Rapunzel",
-		"JAAR": "1812",
-		"LAND": "Duitsland4",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://grimmbrotherstodisney.files.wordpress.com/2015/11/11336545_0.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Rapunzel"
-	},
-	{
-		"SPROOKJE": "Rumpelstiltskin",
-		"JAAR": "1812",
-		"LAND": "Duitsland5",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "http://carolsnotebook.com/wp-content/uploads/2012/05/anderson_rumple1.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Rumpelstiltskin"
-	},
-	{
-		"SPROOKJE": "Snow White",
-		"JAAR": "1823",
-		"LAND": "Duitsland6",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://i.pinimg.com/originals/e4/01/8a/e4018a9eabef4e9e427b1aceef68cb3d.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Snow_White"
-	},
-	{
-		"SPROOKJE": "Snow-White and Rose-Red",
-		"JAAR": "1832",
-		"LAND": "Duitsland7",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Smithsnowred.jpg/220px-Smithsnowred.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Snow-White_and_Rose-Red"
-	},
-	{
-		"SPROOKJE": "The Wolf and the Seven Young Kids",
-		"JAAR": "1812",
-		"LAND": "Duitsland8",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hermann_Vogel-The_Wolf_and_the_Seven_Young_Kids-1.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Wolf_and_the_Seven_Young_Kids"
-	},
-	{
-		"SPROOKJE": "Sleeping Beauty",
-		"JAAR": "1697",
-		"LAND": "Duitsland9",
-		"SCHRIJVER": "Charles Perrault",
-		"BOEK": "Mother Goose Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Henry_Meynell_Rheam_-_Sleeping_Beauty.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Sleeping_Beauty"
-	},
-	{
-		"SPROOKJE": "The Girl Without Hands",
-		"JAAR": "1842",
-		"LAND": "Duitsland10",
-		"SCHRIJVER": "Brothers Grimm",
-		"BOEK": "Children's and Household Tales",
-		"AFBEELDING": "http://thegirlwithouthands.yolasite.com/resources/Devil%20with%20girl.jpg.opt600x485o0%2C0s600x485.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Girl_Without_Hands"
-	},
-	{
-		"SPROOKJE": "Alice's Adventures in Wonderland",
-		"JAAR": "1865",
-		"LAND": "Engeland",
-		"SCHRIJVER": "Lewis Carroll",
-		"BOEK": "",
-		"AFBEELDING": "http://www.victorian-era.org/images/AlicesAdventuresinWonderlandBook.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland"
-	},
-	{
-		"SPROOKJE": "A Christmas Carol",
-		"JAAR": "1843",
-		"LAND": "Engeland1",
-		"SCHRIJVER": "Charles Dickens",
-		"BOEK": "",
-		"AFBEELDING": "https://mvlteenvoice.files.wordpress.com/2013/12/christmas_carol_cover.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/A_Christmas_Carol"
-	},
-	{
-		"SPROOKJE": "Jack and the Beanstalk",
-		"JAAR": "1890",
-		"LAND": "Engeland2",
-		"SCHRIJVER": "Joseph Jacobs",
-		"BOEK": "English Fairy Tales",
-		"AFBEELDING": "http://www.read.gov/books/images/jack_beanstalk.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Jack_and_the_Beanstalk"
-	},
-	{
-		"SPROOKJE": "Jack the Giant Killer",
-		"JAAR": "1889",
-		"LAND": "Engeland3",
-		"SCHRIJVER": "Joseph Jacobs",
-		"BOEK": "English Fairy Tales",
-		"AFBEELDING": "https://www.mirrorservice.org/sites/gutenberg.org/4/5/0/2/45021/45021-h/images/023s.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Jack_the_Giant_Killer"
-	},
-	{
-		"SPROOKJE": "Peter and Wendy",
-		"JAAR": "1904",
-		"LAND": "Engeland4",
-		"SCHRIJVER": "James Mathew Barrie",
-		"BOEK": "",
-		"AFBEELDING": "https://i.pinimg.com/736x/b4/ae/45/b4ae453f888fcf0c5bd2b404ee8a1f2f--peter-and-wendy-peter-pan.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Peter_and_Wendy"
-	},
-	{
-		"SPROOKJE": "The Three Little Pigs",
-		"JAAR": "1843",
-		"LAND": "Engeland5",
-		"SCHRIJVER": "",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Three_little_pigs_1904_straw_house.jpg/377px-Three_little_pigs_1904_straw_house.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Three_Little_Pigs"
-	},
-	{
-		"SPROOKJE": "The Wonderful Wizard of Oz",
-		"JAAR": "1989",
-		"LAND": "Engeland6",
-		"SCHRIJVER": "L. Frank Baum",
-		"BOEK": "The Oz Books",
-		"AFBEELDING": "\"https://images-na.ssl-images-amazon.com/images/I/51pWdLRZ9EL._SX361_BO1",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz"
-	},
-	{
-		"SPROOKJE": "The Grateful Prince",
-		"JAAR": "1866",
-		"LAND": "Estland",
-		"SCHRIJVER": "Friedrich Kreutzwald",
-		"BOEK": "Eestirahwa Ennemuistesed jutud",
-		"AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/10/the-grateful-prince.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Grateful_Prince"
-	},
-	{
-		"SPROOKJE": "The Gold-spinners",
-		"JAAR": "1866",
-		"LAND": "Estland1",
-		"SCHRIJVER": "Friedrich Kreutzwald",
-		"BOEK": "Eestirahwa Ennemuistesed jutud",
-		"AFBEELDING": "https://i.pinimg.com/originals/80/55/d3/8055d376bd55fa9763b5c9391ce56cd9.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Gold-spinners"
-	},
-	{
-		"SPROOKJE": "The Gifts of the Magician",
-		"JAAR": "1903",
-		"LAND": "Finland",
-		"SCHRIJVER": "Andrew Lang",
-		"BOEK": "",
-		"AFBEELDING": "https://i.pinimg.com/236x/7a/56/dd/7a56ddd67cbc3fc3f0379bf6be88775a.jpg",
-		"WIKI": ""
-	},
-	{
-		"SPROOKJE": "Aurore and Aimée",
-		"JAAR": "1756",
-		"LAND": "Frankrijk",
-		"SCHRIJVER": "Jeanne-Marie Leprince de Beaumont",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Crane_beauty5.jpg/383px-Crane_beauty5.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Aurore_and_Aimée"
-	},
-	{
-		"SPROOKJE": "Beauty and the Beast",
-		"JAAR": "1740",
-		"LAND": "Frankrijk1",
-		"SCHRIJVER": "Gabrielle-Suzanne Barbot de Villeneuve",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Crane_beauty5.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast"
-	},
-	{
-		"SPROOKJE": "The Blue Bird",
-		"JAAR": "1698",
-		"LAND": "Frankrijk2",
-		"SCHRIJVER": "Madame d'Aulnoy",
-		"BOEK": "Les Contes des Fees",
-		"AFBEELDING": "https://favim.com/orig/201104/29/Favim.com-27844.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Blue_Bird_(fairy_tale)"
-	},
-	{
-		"SPROOKJE": "Cinderella",
-		"JAAR": "1697",
-		"LAND": "Frankrijk3",
-		"SCHRIJVER": "Charles Perrault",
-		"BOEK": "Mother Goose Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cinderella_-_Anne_Anderson.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Cinderella"
-	},
-	{
-		"SPROOKJE": "The Hunchback of Notre Dame",
-		"JAAR": "1831",
-		"LAND": "Frankrijk4",
-		"SCHRIJVER": "Victor Hugo",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Victor_Hugo-Hunchback.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame"
-	},
-	{
-		"SPROOKJE": "Little Red Riding Hood",
-		"JAAR": "1695",
-		"LAND": "Frankrijk5",
-		"SCHRIJVER": "Charles Perrault",
-		"BOEK": "Mother Goose Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/9/91/GustaveDore_She_was_astonished_to_see_how_her_grandmother_looked.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
-	},
-	{
-		"SPROOKJE": "Puss in Boots",
-		"JAAR": "1697",
-		"LAND": "Frankrijk6",
-		"SCHRIJVER": "Charles Perrault",
-		"BOEK": "Mother Goose Tales",
-		"AFBEELDING": "http://www.windmill.nildram.co.uk/images/puss_in_boots.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Puss_in_Boots"
-	},
-	{
-		"SPROOKJE": "The Golden Crab",
-		"JAAR": "1877",
-		"LAND": "Griekeland",
-		"SCHRIJVER": "Bernhard Schmidt",
-		"BOEK": "Griechische Märchen",
-		"AFBEELDING": "https://www.lib.umich.edu/online-exhibits/files/original/1de28758df279f180356b5188ea3081c.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Golden_Crab"
-	},
-	{
-		"SPROOKJE": "How the Dragon was Tricked",
-		"JAAR": "1864",
-		"LAND": "Griekeland1",
-		"SCHRIJVER": "JG von Hahn",
-		"BOEK": "Griechtsche und Albanesische Marche",
-		"AFBEELDING": "http://s3.thingpic.com/images/CS/7ZXqTsXfzQvUZauhduENGKvq.jpeg",
-		"WIKI": "https://en.wikipedia.org/wiki/How_the_Dragon_was_Tricked"
-	},
-	{
-		"SPROOKJE": "Brother and Sister",
-		"JAAR": "1877",
-		"LAND": "Griekeland2",
-		"SCHRIJVER": "Georgias A. Megas",
-		"BOEK": "Folktales of Greece",
-		"AFBEELDING": "http://www.surlalunefairytales.com/illustrations/brothersister/images/gruelle_brother1.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Brother_and_Sister_(Greek_fairy_tale)"
-	},
-	{
-		"SPROOKJE": "The Happy Prince",
-		"JAAR": "1811",
-		"LAND": "Hongarije",
-		"SCHRIJVER": "Oscar Wilde",
-		"BOEK": "The Happy Prince and Other Tales",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Plate_1_of_The_Happy_Prince_and_Other_Tales_%281888%29.png",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales"
-	},
-	{
-		"SPROOKJE": "The Nightingale and the Rose",
-		"JAAR": "1888",
-		"LAND": "Hongarije1",
-		"SCHRIJVER": "Oscar Wilde",
-		"BOEK": "The Happy Prince and Other Tales",
-		"AFBEELDING": "https://i.pinimg.com/236x/e5/a9/61/e5a961c44d42dc4cca01c56455102403--nightingale-wilde.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales"
-	},
-	{
-		"SPROOKJE": "The Boy Who Could Keep A Secret",
-		"JAAR": "1756",
-		"LAND": "Hongarije2",
-		"SCHRIJVER": "",
-		"BOEK": "Folk Tales of Magyars",
-		"AFBEELDING": "https://i.pinimg.com/originals/b9/6c/98/b96c98dff2893d5f59e4d576caba7cb9.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Boy_Who_Could_Keep_A_Secret"
-	},
-	{
-		"SPROOKJE": "The Gold-bearded Man",
-		"JAAR": "1857",
-		"LAND": "Hongarije3",
-		"SCHRIJVER": "",
-		"BOEK": "Ungarische Märchen",
-		"AFBEELDING": "https://i.pinimg.com/originals/a4/25/17/a425175d2d8d1091ea680c408bc45f6f.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Gold-bearded_Man"
-	},
-	{
-		"SPROOKJE": "The Witch in the Stone Boat ",
-		"JAAR": "1884",
-		"LAND": "IJsland",
-		"SCHRIJVER": "Andrew Lang",
-		"BOEK": "The Yellow Fairy Book",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Yellow_Fairy_Book-The_Witch_in_the_Stone_Boat1.jpg",
-		"WIKI": ""
-	},
-	{
-		"SPROOKJE": "How Geirald the Coward was Punished",
-		"JAAR": "1732",
-		"LAND": "IJsland1",
-		"SCHRIJVER": "",
-		"BOEK": "",
-		"AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
-		"WIKI": ""
-	},
-	{
-		"SPROOKJE": "The Horse Gullfaxi and the Sword Gunnfoder",
-		"JAAR": "1823",
-		"LAND": "IJsland2",
-		"SCHRIJVER": "",
-		"BOEK": "Islandische Märchen",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Crimson_Fairy_Book-The_Horse_Gullfaxi_and_Sword_Gunnfoder2-Deadly_Hailstorm.jpg/220px-Crimson_Fairy_Book-The_Horse_Gullfaxi_and_Sword_Gunnfoder2-Deadly_Hailstorm.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Horse_Gullfaxi_and_the_Sword_Gunnfoder"
-	},
-	{
-		"SPROOKJE": "The Adventures of Pinocchio",
-		"JAAR": "1883",
-		"LAND": "Italie",
-		"SCHRIJVER": "Carlo Collodi",
-		"BOEK": "",
-		"AFBEELDING": "https://i.pinimg.com/236x/b7/7a/b0/b77ab00a74013c86a9bb63ba9e29e4e5--books-for-children-childrens-books.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio"
-	},
-	{
-		"SPROOKJE": "The Raven",
-		"JAAR": "1634",
-		"LAND": "Italie1",
-		"SCHRIJVER": "Giambattista Basile",
-		"BOEK": "Pentamerone",
-		"AFBEELDING": "https://vignette.wikia.nocookie.net/creepypasta/images/2/21/The_Raven.jpg/revision/latest?cb=20120322160008",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Raven_(Italian_fairy_tale)"
-	},
-	{
-		"SPROOKJE": "The Three Daughters of King O'Hara",
-		"JAAR": "1891",
-		"LAND": "Litouwen",
-		"SCHRIJVER": "Jeremiah Curtin",
-		"BOEK": "Myths and Folk-lore of Ireland",
-		"AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/08/three-daughters-king-ohara.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Three_Daughters_of_King_O%27Hara"
-	},
-	{
-		"SPROOKJE": "Eglė the Queen of Serpents",
-		"JAAR": "1837",
-		"LAND": "Litouwen1",
-		"SCHRIJVER": "M. Jasewicz",
-		"BOEK": "",
-		"AFBEELDING": "https://europeisnotdead.files.wordpress.com/2012/05/lithuania-eglc497-the-queen-of-serpents.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Eglė_the_Queen_of_Serpents"
-	},
-	{
-		"SPROOKJE": "The Blue Belt",
-		"JAAR": "1845",
-		"LAND": "Noorwegen",
-		"SCHRIJVER": "Peter Chr. Asbjørnsen and Jørgen Moe",
-		"BOEK": "Norske Folkeeventyr",
-		"AFBEELDING": "https://i.pinimg.com/736x/42/94/92/4294928c61a211e984ca860e0b8590ed.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Blue_Belt"
-	},
-	{
-		"SPROOKJE": "Boots and His Brothers",
-		"JAAR": "1829",
-		"LAND": "Noorwegen1",
-		"SCHRIJVER": "Peter Chr. Asbjørnsen and Jørgen Moe",
-		"BOEK": "Norske Folkeeventyr",
-		"AFBEELDING": "https://images.betterworldbooks.com/082/Boots-and-His-Brothers-Kimmel-Eric-A-9780823408863.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Boots_and_His_Brothers"
-	},
-	{
-		"SPROOKJE": "Boots Who Ate a Match with the Troll",
-		"JAAR": "1780",
-		"LAND": "Noorwegen2",
-		"SCHRIJVER": "Peter Chr. Asbjørnsen and Jørgen Moe",
-		"BOEK": "Norske Folkeeventyr",
-		"AFBEELDING": "http://kurs.uib.no/dikult105_2013/dikult105_15/img/troll/askeladdentroll.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/Boots_Who_Ate_a_Match_with_the_Troll"
-	},
-	{
-		"SPROOKJE": "The Lassie and Her Godmother",
-		"JAAR": "1845",
-		"LAND": "Noorwegen3",
-		"SCHRIJVER": "Peter Chr. Asbjørnsen and Jørgen Moe",
-		"BOEK": "Norske Folkeeventyr",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kay_Nielsen_-_East_of_the_sun_and_west_of_the_moon_-_the_lassie_and_her_godmother_-_and_then_he_coaxed_her_down_and_took_her_home.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Lassie_and_Her_Godmother"
-	},
-	{
-		"SPROOKJE": "The Old Dame and Her Hen",
-		"JAAR": "1820",
-		"LAND": "Noorwegen4",
-		"SCHRIJVER": "Peter Chr. Asbjørnsen and Jørgen Moe",
-		"BOEK": "Norske Folkeeventyr",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hona_tripper_i_Berget-Barn-Eventyr%281915%29p022.jpg/220px-Hona_tripper_i_Berget-Barn-Eventyr%281915%29p022.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Old_Dame_and_Her_Hen"
-	},
-	{
-		"SPROOKJE": "Three Billy Goats Gruff",
-		"JAAR": "1880",
-		"LAND": "Noorwegen5",
-		"SCHRIJVER": "Peter Chr. Asbjørnsen and Jørgen Moe",
-		"BOEK": "",
-		"AFBEELDING": "http://1.bp.blogspot.com/-pynisfAHUSw/U_yphqwaDxI/AAAAAAAAED0/8thkVe3WwD8/s1600/goatsgruff.JPG",
-		"WIKI": "https://en.wikipedia.org/wiki/Three_Billy_Goats_Gruff"
-	},
-	{
-		"SPROOKJE": "The Glass Mountain",
-		"JAAR": "1799",
-		"LAND": "Polen",
-		"SCHRIJVER": "Hermann Kletke",
-		"BOEK": "",
-		"AFBEELDING": "https://2.bp.blogspot.com/-j7BdNKQSGQE/T72kLOad5jI/AAAAAAAAKv4/NxPD8AVPATM/s1600/the_seven_ravens_by_dunechampion-d3d3ayj.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Glass_Mountain_(fairy_tale)"
-	},
-	{
-		"SPROOKJE": "Clever Maria",
-		"JAAR": "1789",
-		"LAND": "Portugal",
-		"SCHRIJVER": "",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Crimson_Fairy_Book_-_Clever_Maria_1.jpg",
-		"WIKI": ""
-	},
-	{
-		"SPROOKJE": "The Boys with the Golden Stars",
-		"JAAR": "1864",
-		"LAND": "Roemenië",
-		"SCHRIJVER": "",
-		"BOEK": "Rumanische Märchen",
-		"AFBEELDING": "http://1fairytale.com/wp-content/uploads/2016/10/boys-golden-stars.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Boys_with_the_Golden_Stars"
-	},
-	{
-		"SPROOKJE": "The Enchanted Pig",
-		"JAAR": "1822",
-		"LAND": "Roemenië1",
-		"SCHRIJVER": "",
-		"BOEK": "Rumanische Märchen",
-		"AFBEELDING": "https://68.media.tumblr.com/6716e946282d1728482504b1f502645c/tumblr_nk6alnqasK1sn8kzpo1_1280.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Enchanted_Pig"
-	},
-	{
-		"SPROOKJE": "The Bear",
-		"JAAR": "1900",
-		"LAND": "Engeland7",
-		"SCHRIJVER": "Andrew Lang",
-		"BOEK": "The Grey Fairy Book",
-		"AFBEELDING": "https://i.pinimg.com/736x/c3/61/d4/c361d43c1c1648c4b134890f48735760--fairy-tale-illustrations-vintage-illustrations.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Bear_(fairy_tale)"
-	},
-	{
-		"SPROOKJE": "The Golden Key",
-		"JAAR": "1867",
-		"LAND": "Engeland8",
-		"SCHRIJVER": "George MacDonald",
-		"BOEK": "",
-		"AFBEELDING": "https://static1.squarespace.com/static/5578a07fe4b0a20ad94210dc/5601f094e4b04aa9439b9637/5601f09ce4b0f30d0693e555/1442967708955/GK_p22_23_Layers.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Golden_Key"
-	},
-	{
-		"SPROOKJE": "The Light Princess",
-		"JAAR": "1864",
-		"LAND": "Engeland9",
-		"SCHRIJVER": "George MacDonald",
-		"BOEK": "",
-		"AFBEELDING": "http://www.nwhgeopark.com/wp-content/uploads/assynt-banner1.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Light_Princess"
-	},
-	{
-		"SPROOKJE": "The Sea-Maiden",
-		"JAAR": "1891",
-		"LAND": "Engeland10",
-		"SCHRIJVER": "John Francis Campbell",
-		"BOEK": "Popular Tales of the West Highlands",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/6/60/Herbert_James_Draper%2C_The_Sea_Maiden.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Sea-Maiden"
-	},
-	{
-		"SPROOKJE": "Whuppity Stoorie",
-		"JAAR": "1858",
-		"LAND": "Engeland11",
-		"SCHRIJVER": "Robert Chambers",
-		"BOEK": "Popular Rhymes of Scotland",
-		"AFBEELDING": "https://ih0.redbubble.net/image.13565973.3396/flat",
-		"WIKI": "https://en.wikipedia.org/wiki/Whuppity_Stoorie"
-	},
-	{
-		"SPROOKJE": "The Dragon and the Prince",
-		"JAAR": "1891",
-		"LAND": "Servie",
-		"SCHRIJVER": "A. H. Wratislaw",
-		"BOEK": "Sixty Folk-Tales from Exclusively Slavonic Sources",
-		"AFBEELDING": "https://www.booktopia.com.au/http_coversbooktopiacomau/big/9781848105904/the-prince-and-the-dragon-and-other-stories.jpg",
-		"WIKI": "https://en.wikipedia.org/wiki/The_Dragon_and_the_Prince"
-	},
-	{
-		"SPROOKJE": "Pérez Mouse",
-		"JAAR": "1896",
-		"LAND": "Spanje",
-		"SCHRIJVER": "Luis Coloma",
-		"BOEK": "",
-		"AFBEELDING": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Raton_Perez_%28Cuento%29_pg_1.jpg",
-		"WIKI": ""
-	},
-	{
-		"SPROOKJE": "The Boy Who Found Fear At Last",
-		"JAAR": "1780",
-		"LAND": "Turkije",
-		"SCHRIJVER": "",
-		"BOEK": "",
-		"AFBEELDING": "https://ebooks.adelaide.edu.au/l/lang/andrew/l26ol/images/ofb49.jpg",
-		"WIKI": ""
-	},
-	{
-		"SPROOKJE": "The Bird 'Grip",
-		"JAAR": "1823",
-		"LAND": "Zweden",
-		"SCHRIJVER": "",
-		"BOEK": "",
-		"AFBEELDING": "http://download.polytechnic.edu.na/pub/gutenberg/2/5/5/1/25513/25513-h/images/i030.jpg",
-		"WIKI": ""
-	}
+ {
+   "LANDEN": "Denemarken",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "Frederiksborg Castle",
+   "INFOBW": "http://www.visitcopenhagen.com/copenhagen/frederiksborg-castle-gdk424103",
+   "BWFOTO": "https://media-cdn.tripadvisor.com/media/photo-o/0e/ac/37/85/frederiksborg-slot-from.jpg",
+   "BWLOCATIE": "Hillerød, Denemarken"
+ },
+ {
+   "LANDEN": "Denemarken1",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "The Little Mermaid standbeeld",
+   "INFOBW": "http://www.visitcopenhagen.com/copenhagen/little-mermaid-gdk586951",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/en/7/7a/Copenhagen_-_the_little_mermaid_statue_-_2013.jpg",
+   "BWLOCATIE": "København, Denemarken"
+ },
+ {
+   "LANDEN": "Denemarken2",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "Rosenholm Castle",
+   "INFOBW": "http://www.visitdjursland.com/ln-int/central-jutland/castles-manor-houses/rosenholm-slot",
+   "BWFOTO": "https://farm3.staticflickr.com/2160/2066948134_acfc6698fc_c.jpg",
+   "BWLOCATIE": "Hornslet, Denemarken"
+ },
+ {
+   "LANDEN": "Denemarken3",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "Rold Skov bos",
+   "INFOBW": "http://www.visitdenmark.com/denmark/rold-skov-forest-gdk679417",
+   "BWFOTO": "http://1.bp.blogspot.com/-ewxSp8ZLKNc/UCFGVMDbNJI/AAAAAAAAeKY/naJaRqmL0wk/s1600/Himmerland+035+rold+skov+.jpg",
+   "BWLOCATIE": "Skørping, Denemarken"
+ },
+ {
+   "LANDEN": "Denemarken4",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "Dragsholm Castle",
+   "INFOBW": "http://www.dragsholm-slot.dk/eng/",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/f/ff/DragsholmCastleDenmark.jpg",
+   "BWLOCATIE": "Dragsholm Castle"
+ },
+ {
+   "LANDEN": "Denemarken5",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "Furesø meer",
+   "INFOBW": "https://www.tripadvisor.nl/Attraction_Review-g2555529-d3603190-Reviews-Fureso-Vaerloese_Furesoe_Municipality_Copenhagen_Region_Zealand.html",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/6/69/Furesøen_at_Frederiksdal.jpg",
+   "BWLOCATIE": "Furesø (lake),  Denemarken"
+ },
+ {
+   "LANDEN": "Denemarken6",
+   "AFLBEELDINGNATUUR": "http://www.visitdenmark.nl/sites/default/files/VDK_Website_images/Tourist_content/Nature/National_parks/mols-bjerge-troldeskoven.jpg",
+   "BEZIENSWAARDIGHEDEN": "Søndersø",
+   "INFOBW": "http://www.visitdenmark.nl/nl/denmark/sonderso-gdk1005476",
+   "BWFOTO": "http://static.panoramio.com/photos/large/39753417.jpg",
+   "BWLOCATIE": "Søndersø,  Denemarken"
+ },
+ {
+   "LANDEN": "Duitsland",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Dark forest",
+   "INFOBW": "https://www.lonelyplanet.com/germany/black-forest",
+   "BWFOTO": "http://s.embark.org/0.9.0/media/820x400/Germany/images/Stuttgart/palatinate-forest-nature-park-stuttgart-germany.jpg",
+   "BWLOCATIE": "Feldberg"
+ },
+ {
+   "LANDEN": "Duitsland1",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Kasteel Burg Hohenzollern",
+   "INFOBW": "http://www.burg-hohenzollern.com/startpage.html",
+   "BWFOTO": "http://stuffpoint.com/germany/image/311268-germany-hohenzollern-castle-in-stuttgart.jpg",
+   "BWLOCATIE": "Burg Hohenzollern, Duitsland"
+ },
+ {
+   "LANDEN": "Duitsland2",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Steinau an der Straße",
+   "INFOBW": "https://nl.wikipedia.org/wiki/Steinau_an_der_Stra%C3%9Fe",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Steinau_an_der_Stra%C3%9Fe%2C_die_Br%C3%BCder-Grimm-Stra%C3%9Fe.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Duitsland3",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Dorpje waar Hans en Grietje leefden",
+   "INFOBW": "http://www.romantischestrasse.nl/augsburg.html",
+   "BWFOTO": "https://d18gmz9e98r8v5.cloudfront.net/ptr/20150611144529_231112163_2202_9.jpg",
+   "BWLOCATIE": "Augsburg, Duitsland"
+ },
+ {
+   "LANDEN": "Duitsland4",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Toren waar Rapunzel in opgesloten zit",
+   "INFOBW": "http://www.burg-hohenzollern.com/startpage.html",
+   "BWFOTO": "https://www.burg-hotel-trendelburg.com/wp-content/uploads/2016/07/burg-hotel-rapunzelturm02.jpg",
+   "BWLOCATIE": "Trendelburg, Duitsland"
+ },
+ {
+   "LANDEN": "Duitsland5",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Buerresheim",
+   "INFOBW": "https://en.wikipedia.org/wiki/Rumpelstiltskin#Name_origins",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1200px-Buerresheim_1.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Duitsland6",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Kasteel van sneeuwwitje (Neuschwanstein Castle)",
+   "INFOBW": "http://www.neuschwanstein.de/englisch/tourist/",
+   "BWFOTO": "http://www.orangesmile.com/ru/foto/top-castles/neuschwanstein-castle-germany.jpg",
+   "BWLOCATIE": "Hohenschwangau, Duitsland"
+ },
+ {
+   "LANDEN": "Duitsland7",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Grunewald forest",
+   "INFOBW": "https://en.wikipedia.org/wiki/Grunewald_(forest)",
+   "BWFOTO": "https://orig00.deviantart.net/04cb/f/2008/280/a/1/grunewald_forest_at_sunset_by_cybercake.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Duitsland8",
+   "AFLBEELDINGNATUUR": "http://www.startpagina.nl/athene/dochters/beieren/images/neuschwanstein%20beieren.jpg",
+   "BEZIENSWAARDIGHEDEN": "Put in Duitsland",
+   "INFOBW": "https://en.wikipedia.org/wiki/Bavaria",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/1/18/A_well_in_the_vicus_outside_the_Cohort_Fort%2C_Saalburg_Roman_Fort%2C_Limes_Germanicus%2C_Germania_%28Germany%29_%287957137112%29.jpg",
+   "BWLOCATIE": "Germany well, Duitsland "
+ },
+ {
+   "LANDEN": "Duitsland9",
+   "AFLBEELDINGNATUUR": "",
+   "BEZIENSWAARDIGHEDEN": "Het kasteel van Doornroosje (Neuschwanstein Castle)",
+   "INFOBW": "http://www.neuschwanstein.de/englisch/tourist/",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Neuschwanstein_Castle_LOC_print_rotated.jpg",
+   "BWLOCATIE": "Hohenschwangau, Duitsland"
+ },
+ {
+   "LANDEN": "Duitsland10",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "Herrenhausen Gardens",
+   "INFOBW": "https://en.wikipedia.org/wiki/Herrenhausen_Gardens",
+   "BWFOTO": "https://storki.files.wordpress.com/2014/09/20140726-europe-2014-8276-edit.jpg?w=920&h=360&crop=1",
+   "BWLOCATIE": "Herrenhausen Gardens, Duitsland"
+ },
+ {
+   "LANDEN": "Engeland",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "Dineren als Alice in Wonderland",
+   "INFOBW": "http://www.oddfellowschester.com",
+   "BWFOTO": "http://www.oddfellowschester.com/uploads/images/PanelImages/General/Oddfellows_6706_3.jpg",
+   "BWLOCATIE": "Chester, Engeland"
+ },
+ {
+   "LANDEN": "Engeland1",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "Somersethouse",
+   "INFOBW": "https://savse.com/why-christmas-in-london-is-the-best/",
+   "BWFOTO": "https://savse.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-07-at-11.26.51.png",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Engeland2",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "Bodiam Castle",
+   "INFOBW": "https://nl.wikipedia.org/wiki/Bodiam_Castle",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bodiam-castle-10My8-1197.jpg/1200px-Bodiam-castle-10My8-1197.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Engeland3",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "St Michael's Mount ",
+   "INFOBW": "https://en.wikipedia.org/wiki/St_Michael%27s_Mount",
+   "BWFOTO": "https://d27xe58b9ijigq.cloudfront.net/c=ar16x9/s=w1040,pd1/o=85/https://images.nationaltrust.org.uk/images/1431740677584-stmichaelsmount128430davidnoton.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Engeland4",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "Woonplaats van Wendy Darling",
+   "INFOBW": "https://www.visitlondon.com",
+   "BWFOTO": "https://media.timeout.com/images/100644443/image.jpg",
+   "BWLOCATIE": "London, Engeland"
+ },
+ {
+   "LANDEN": "Engeland5",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/11/5/530071911921927/england-nature-stones-tree-hills-fog-autumn.jpg",
+   "BEZIENSWAARDIGHEDEN": "Huisje van de drie biggetjes",
+   "INFOBW": "https://www.booking.com/hotel/gb/three-little-pigs-luxury-cottage.en-gb.html",
+   "BWFOTO": "https://s-ec.bstatic.com/images/hotel/max1024x768/711/71114305.jpg",
+   "BWLOCATIE": "Milton Abbas, Engeland"
+ },
+ {
+   "LANDEN": "Estland",
+   "AFLBEELDINGNATUUR": "https://i.pinimg.com/736x/22/99/9b/22999bc1b64c878974ff277312d8b75f--estonia-tallinn-fairytale.jpg",
+   "BEZIENSWAARDIGHEDEN": "Järvselja Nature Reserve",
+   "INFOBW": "https://www.visitestonia.com/en/object/219972",
+   "BWFOTO": "https://static1.visitestonia.com/images/2890339/Estonian_forest_reasons_to_visit_Sven_Zacek.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Estland1",
+   "AFLBEELDINGNATUUR": "http://finnishness.blogs.tamk.fi/files/2016/09/nature1.jpg",
+   "BEZIENSWAARDIGHEDEN": "Transylvania castle",
+   "INFOBW": "https://nl.wikipedia.org/wiki/Kasteel_Bran",
+   "BWFOTO": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/10/18/09/bran-castle-getty.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Finland",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Scandinavian and Russian taiga",
+   "INFOBW": "https://en.wikipedia.org/wiki/Ranelva",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/0/02/RanelvaIllhoellia_C.JPG",
+   "BWLOCATIE": "Finland, Rusland"
+ },
+ {
+   "LANDEN": "Frankrijk",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Forêt de Perseigne",
+   "INFOBW": "https://en.wikipedia.org/wiki/Forêt_de_Perseigne",
+   "BWFOTO": "http://photos.tourisme-en-france.com/petitesregions/pays-de-loire/saosnois/1_foret-de-perseigne.jpg",
+   "BWLOCATIE": "Forêt de Perseigne, Frankrijk"
+ },
+ {
+   "LANDEN": "Frankrijk1",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Het dorpje van Belle (Elzas)",
+   "INFOBW": "https://www.tourisme-alsace.com/en/",
+   "BWFOTO": "https://www.satujam.com/wp-content/uploads/2015/11/alsace-paris.jpg",
+   "BWLOCATIE": "Elzas, Frankrijk"
+ },
+ {
+   "LANDEN": "Frankrijk2",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Kasteel van Ételan",
+   "INFOBW": "https://nl.wikipedia.org/wiki/Kasteel_van_Ételan",
+   "BWFOTO": "https://www.france-voyage.com/visuals/photos/kasteel-etelan-7612_w300.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Frankrijk3",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Het kasteel van Assepoester (Château de Chenonceau)",
+   "INFOBW": "https://www.chenonceau.com/en/",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chateau_de_Chenonceau_2008E.jpg/1200px-Chateau_de_Chenonceau_2008E.jpg",
+   "BWLOCATIE": "Chenonceaux, Frankrijk"
+ },
+ {
+   "LANDEN": "Frankrijk4",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Notre Dame",
+   "INFOBW": "http://www.notredamedeparis.fr/en/",
+   "BWFOTO": "http://vignette2.wikia.nocookie.net/assassinscreed/images/a/aa/ACU_Notre-Dame.png/revision/latest?cb=20150720000701",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Frankrijk5",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Dordogne",
+   "INFOBW": "https://covertcabin.com",
+   "BWFOTO": "https://www.google.nl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi-h5_ms4bXAhURLFAKHc0OADQQjBwIBA&url=https%3A%2F%2Fsmallhousebliss.files.wordpress.com%2F2015%2F02%2Fcovert-cabin-poachers-exterior4-via-smallhousebliss.jpg%3Fw%3D960&psig=AOvVaw3S_KaXSzOVL4TGjomGMENC&ust=1508836261008972",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Frankrijk6",
+   "AFLBEELDINGNATUUR": "https://media.cntraveler.com/photos/56e077fae5de6a2c1eb9e17e/master/pass/gorge-du-verdon-france-cr-getty.jpg",
+   "BEZIENSWAARDIGHEDEN": "Puss in Boots show",
+   "INFOBW": "https://www.tripadvisor.nl/LocationPhotoDirectLink-g187147-d189687-i252228159-Luxembourg_Gardens-Paris_Ile_de_France.html",
+   "BWFOTO": "https://media-cdn.tripadvisor.com/media/photo-s/0f/08/b2/3f/puss-and-boots-show.jpg ",
+   "BWLOCATIE": "Rue de Vaugirard, Boulevard St. Michel, Rue Auguste-Comte and Rue Guynemer, Frankrijk"
+ },
+ {
+   "LANDEN": "Griekeland",
+   "AFLBEELDINGNATUUR": "http://wallup.net/wp-content/uploads/2016/01/191610-mountain-forest-town-clouds-snowy_peak-nature-landscape-Greece.jpg",
+   "BEZIENSWAARDIGHEDEN": "Anthony Quinn Bay",
+   "INFOBW": "http://visitrhodes.com/anthony-quinn-bay/",
+   "BWFOTO": "https://media-cdn.tripadvisor.com/media/photo-s/0e/92/36/28/anthony-quinn-bay.jpg",
+   "BWLOCATIE": "Kallithea, Griekenland"
+ },
+ {
+   "LANDEN": "Griekeland1",
+   "AFLBEELDINGNATUUR": "http://wallup.net/wp-content/uploads/2016/01/191610-mountain-forest-town-clouds-snowy_peak-nature-landscape-Greece.jpg",
+   "BEZIENSWAARDIGHEDEN": "Banchory, Aberdeenshire",
+   "INFOBW": "https://www.thetimes.co.uk/article/banchory-best-places-to-live-2017-qndcprn0p",
+   "BWFOTO": "https://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Ff9dfa0c2-08b8-11e7-b7a6-9aaa955d37de.jpg?crop=2250%2C1266%2C0%2C117&resize=685",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Griekeland2",
+   "AFLBEELDINGNATUUR": "http://wallup.net/wp-content/uploads/2016/01/191610-mountain-forest-town-clouds-snowy_peak-nature-landscape-Greece.jpg",
+   "BEZIENSWAARDIGHEDEN": "Ainos forest",
+   "INFOBW": "http://www.visitgreece.gr/en/nature/forests/mt_ainos_national_park",
+   "BWFOTO": "http://data3a.greekguide.com/c/900x599-0/companies/737/139465740_1426525175.jpg",
+   "BWLOCATIE": "Ainos forest, Griekeland"
+ },
+ {
+   "LANDEN": "Hongarije",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/0/56/512991419468167/nature-lock-lake-tree-budapest-park-budapest-hungary-vaydahunyad-boat-people.jpg",
+   "BEZIENSWAARDIGHEDEN": "Panadea Castle",
+   "INFOBW": "http://www.panadea.com/en/travel-guide-guidebook/europe/hungary/budapest-and-surrounding/danube-bend/nograd/photo-gallery/gal-001",
+   "BWFOTO": "http://images.summitpost.org/original/522486.jpg",
+   "BWLOCATIE": "Panadea castle, Hongarije"
+ },
+ {
+   "LANDEN": "Hongarije1",
+   "AFLBEELDINGNATUUR": "https://w-dog.net/wallpapers/0/56/512991419468167/nature-lock-lake-tree-budapest-park-budapest-hungary-vaydahunyad-boat-people.jpg",
+   "BEZIENSWAARDIGHEDEN": "Royal, Castle",
+   "INFOBW": "http://www.antiquemapsandprints.com/ireland-dublin-city-chapel-royal-castle-antique-print-1898-63727-p.asp",
+   "BWFOTO": "http://st3.panadea.com/images/popotniski-vodnik/sl-budimpesta-madzarska-panadea-gb-sd-3054643-0105.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Hongarije3",
+   "AFLBEELDINGNATUUR": "https://www.demilked.com/magazine/wp-content/uploads/2014/06/nordic-landscape-nature-photography-iceland-4.jpg",
+   "BEZIENSWAARDIGHEDEN": "Bory Castle",
+   "INFOBW": "http://www.panadea.com/nl/reisgids/europa/hongarije/centraal-transdanubie/szekesfehervar/fotogalerij/gal-004",
+   "BWFOTO": "http://st5.panadea.com/images/reisgids/nl-szekesfehervar-hongarije-panadea-gb-sd-3044774-0055.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "IJsland",
+   "AFLBEELDINGNATUUR": "https://www.demilked.com/magazine/wp-content/uploads/2014/06/nordic-landscape-nature-photography-iceland-4.jpg",
+   "BEZIENSWAARDIGHEDEN": "Reykjavik haven",
+   "INFOBW": "http://www.visitreykjavik.is/reykjavik-old-harbour",
+   "BWFOTO": "https://media-cdn.tripadvisor.com/media/photo-s/0a/69/6d/60/view-from-an-attic-room.jpg",
+   "BWLOCATIE": "Reykjavik, IJsland"
+ },
+ {
+   "LANDEN": "IJsland1",
+   "AFLBEELDINGNATUUR": "https://cdn.flipsnack.com/collections/uploads/fstparm5nrzpyamr",
+   "BEZIENSWAARDIGHEDEN": "Lava trollen",
+   "INFOBW": "http://www.travel-tramp.com/the-trolls-of-the-dimmuborgir-lava-fields/",
+   "BWFOTO": "https://arkansasstoriesbyterryengel.files.wordpress.com/2014/11/img_7622.jpg",
+   "BWLOCATIE": "Land of the trolls, IJsland"
+ },
+ {
+   "LANDEN": "IJsland2",
+   "AFLBEELDINGNATUUR": "https://cdn.flipsnack.com/collections/uploads/fstparm5nrzpyamr",
+   "BEZIENSWAARDIGHEDEN": "Castle rock snaefellsnes",
+   "INFOBW": "http://www.tryiceland.com/en/toursbysuperjeep/snaefellsnes-peninsula/",
+   "BWFOTO": "https://cdn.getyourguide.com/img/tour_img-373072-70.jpg",
+   "BWLOCATIE": "Borgarfjörður, IJsland"
+ },
+ {
+   "LANDEN": "Italie",
+   "AFLBEELDINGNATUUR": "https://cdn.flipsnack.com/collections/uploads/fstparm5nrzpyamr",
+   "BEZIENSWAARDIGHEDEN": "Dorpje waar Pinocchio leefde",
+   "INFOBW": "https://www.discovertuscany.com/pistoia/the-pinocchio-park-in-collodi.html",
+   "BWFOTO": "http://heavenlyplan.com/wp-content/uploads/2016/08/Underrated-Cities-in-Europe-850x550.jpg",
+   "BWLOCATIE": "Collodi, Italie"
+ },
+ {
+   "LANDEN": "Italie1",
+   "AFLBEELDINGNATUUR": "https://www.pandotrip.com/wp-content/uploads/2016/01/Dolomites-Photo-by-Hans-Kruse-740x493.jpg",
+   "BEZIENSWAARDIGHEDEN": "Parma",
+   "INFOBW": "https://www.italytravel.com/2012/03/castles-near-parma-a-photographers-delight/",
+   "BWFOTO": "https://www.italytravel.com/wp-content/uploads/2012/03/Torrechiara.jpg",
+   "BWLOCATIE": "Parma, Italie"
+ },
+ {
+   "LANDEN": "Litouwen",
+   "AFLBEELDINGNATUUR": "https://www.pandotrip.com/wp-content/uploads/2016/01/Dolomites-Photo-by-Hans-Kruse-740x493.jpg",
+   "BEZIENSWAARDIGHEDEN": "Trakai Island Castle",
+   "INFOBW": "https://en.wikipedia.org/wiki/Trakai_Island_Castle",
+   "BWFOTO": "https://www.anwb.nl/binaries/content/gallery/anwb/portal/vakantie-redesign---alleen-nieuw-formaat/landen/litouwen-1520-855.jpg/litouwen-1520-855.jpg/anwb%3Aw760",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Litouwen1",
+   "AFLBEELDINGNATUUR": "http://vunature.com/wp-content/uploads/2016/09/rivers-mountains-nature-cute-hd-photos-1366x768.jpg",
+   "BEZIENSWAARDIGHEDEN": "Standbeeld van Eglė the Queen of Serpents",
+   "INFOBW": "https://www.tripadvisor.com/LocationPhotoDirectLink-g274950-d7946007-i130054866-Birute_Park-Palanga_Klaipeda_County.html",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Egle_the_Queen_of_Serpents_at_Glebe_Park_%28214042811%29.jpg/1024px-Egle_the_Queen_of_Serpents_at_Glebe_Park_%28214042811%29.jpg",
+   "BWLOCATIE": "Glebe Park, Canberra, Lithouwen"
+ },
+ {
+   "LANDEN": "Noorwegen",
+   "AFLBEELDINGNATUUR": "https://farm1.staticflickr.com/589/23044235573_f71a4a042f_o.jpg",
+   "BEZIENSWAARDIGHEDEN": "Alden",
+   "INFOBW": "https://www.visitnorway.com/listings/alden/7545/",
+   "BWFOTO": "http://i1.trekearth.com/photos/14422/alden-norway.jpg",
+   "BWLOCATIE": "Alden, Noorwegen"
+ },
+ {
+   "LANDEN": "Noorwegen1",
+   "AFLBEELDINGNATUUR": "http://s1.1zoom.me/big0/447/356821-admin.jpg",
+   "BEZIENSWAARDIGHEDEN": "Akershus Fortress",
+   "INFOBW": "https://www.visitoslo.com/en/product/?TLp=14900",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oslo_Akershus_festning_IMG_8916_rk_86131.JPG/1280px-Oslo_Akershus_festning_IMG_8916_rk_86131.JPG",
+   "BWLOCATIE": "Oslo, Noorwegen"
+ },
+ {
+   "LANDEN": "Noorwegen2",
+   "AFLBEELDINGNATUUR": "http://s1.1zoom.me/big0/447/356821-admin.jpg",
+   "BEZIENSWAARDIGHEDEN": "Østmarka",
+   "INFOBW": "https://www.visitoslo.com/en/product/?TLp=181576",
+   "BWFOTO": "http://www.skiforeningen.no/img/publish/14466.jpg",
+   "BWLOCATIE": "Østmarka, Noorwegen"
+ },
+ {
+   "LANDEN": "Noorwegen3",
+   "AFLBEELDINGNATUUR": "http://s1.1zoom.me/big0/447/356821-admin.jpg",
+   "BEZIENSWAARDIGHEDEN": "Vækerø Manor",
+   "INFOBW": "https://en.wikipedia.org/wiki/Vækerø_Manor",
+   "BWFOTO": "http://www.traveltheworldaround.com/images/Norway/Norway_Castles/Vker-Manor_to_1800.jpg",
+   "BWLOCATIE": "Drammensveien, Noorwegen"
+ },
+ {
+   "LANDEN": "Noorwegen4",
+   "AFLBEELDINGNATUUR": "http://s1.1zoom.me/big0/447/356821-admin.jpg",
+   "BEZIENSWAARDIGHEDEN": "Bø, Telemark",
+   "INFOBW": "https://en.wikipedia.org/wiki/Bø,_Telemark",
+   "BWFOTO": "https://www.gjesdal.kommune.no//handlers/bv.ashx/i10dc78e8-1950-4301-8bc2-b767023f0a10/pic.JPG",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Noorwegen5",
+   "AFLBEELDINGNATUUR": "http://s1.1zoom.me/big0/447/356821-admin.jpg",
+   "BEZIENSWAARDIGHEDEN": "Geirangerfjord",
+   "INFOBW": "http://joseherworld.blogspot.nl/2010/08/hellesylt-to-geirangerfjord-norway.html",
+   "BWFOTO": "http://3.bp.blogspot.com/_opg3kTZirOI/TFZGSpTE-eI/AAAAAAAABFY/LwYV00nSLtU/s1600/OldBridgeHellesylt_MG_8974.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Polen",
+   "AFLBEELDINGNATUUR": "http://s1.1zoom.me/big0/447/356821-admin.jpg",
+   "BEZIENSWAARDIGHEDEN": "Tatry bergen",
+   "INFOBW": "https://en.wikipedia.org/wiki/The_Glass_Mountain_(fairy_tale)",
+   "BWFOTO": "https://cdn.theculturetrip.com/wp-content/uploads/2017/04/pol_1.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Portugal",
+   "AFLBEELDINGNATUUR": "http://polandpoint.eu/wp-content/uploads/2014/01/Tatry_2.jpg",
+   "BEZIENSWAARDIGHEDEN": "Palácio da Pena",
+   "INFOBW": "https://nl.wikipedia.org/wiki/Palácio_da_Pena",
+   "BWFOTO": "https://portugalvirtual.pt/ai-images/sintra/pena-palace-031-8x3-2560x0960.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Roemenië",
+   "AFLBEELDINGNATUUR": "http://www.goodwp.com/images/201107/goodwp.com_19222.jpg",
+   "BEZIENSWAARDIGHEDEN": "Pelișor",
+   "INFOBW": "https://en.wikipedia.org/wiki/Pelișor",
+   "BWFOTO": "http://www.pure-romania.com/wp-content/uploads/2015/07/Pelisor-is-a-castle-in-Romania.-It-was-built-by-orders-of-King-Carol-I-for-his-nephew-Ferdinand-the-future-king-of-Romania-and-his-wife-Queen-Marie-4.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Roemenië1",
+   "AFLBEELDINGNATUUR": "http://wallup.net/wp-content/uploads/2016/02/191206-nature-Romania-river-lake.jpg",
+   "BEZIENSWAARDIGHEDEN": "Peleș Castle",
+   "INFOBW": "http://romaniatourism.com/castles-fortresses-romania-peles-castle-sinaia.html",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg/1200px-Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg",
+   "BWLOCATIE": "Sinaia, Roemenie"
+ },
+ {
+   "LANDEN": "Schotland",
+   "AFLBEELDINGNATUUR": "http://wallup.net/wp-content/uploads/2016/02/191206-nature-Romania-river-lake.jpg",
+   "BEZIENSWAARDIGHEDEN": "Horsburgh Castle",
+   "INFOBW": "https://en.wikipedia.org/wiki/Horsburgh_Castle",
+   "BWFOTO": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Horsburgh_Castle.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Schotland1",
+   "AFLBEELDINGNATUUR": "https://i.pinimg.com/originals/48/ab/12/48ab122506945a4b24770536d1aacf0e.jpg",
+   "BEZIENSWAARDIGHEDEN": "Glenmore Forest Park",
+   "INFOBW": "http://scotland.forestry.gov.uk/forest-parks/glenmore-forest-park",
+   "BWFOTO": "https://media-cdn.tripadvisor.com/media/photo-s/06/7c/08/81/cairngorm-lodge-youth.jpg",
+   "BWLOCATIE": "Glenmore Forest Park, Scotland"
+ },
+ {
+   "LANDEN": "Schotland2",
+   "AFLBEELDINGNATUUR": "https://i.pinimg.com/originals/48/ab/12/48ab122506945a4b24770536d1aacf0e.jpg",
+   "BEZIENSWAARDIGHEDEN": "Tantallon Castle",
+   "INFOBW": "https://www.historicenvironment.scot/visit-a-place/places/tantallon-castle/",
+   "BWFOTO": "https://www.visitscotland.com/wsimgs/tan.1-000007.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Schotland3",
+   "AFLBEELDINGNATUUR": "https://i.pinimg.com/originals/48/ab/12/48ab122506945a4b24770536d1aacf0e.jpg",
+   "BEZIENSWAARDIGHEDEN": "Aberdeen bay scotland",
+   "INFOBW": "https://www.visitabdn.com",
+   "BWFOTO": "https://i.imgur.com/zSFkhsL.jpg",
+   "BWLOCATIE": "Aberdeenshire, schotland"
+ },
+ {
+   "LANDEN": "Schotland4",
+   "AFLBEELDINGNATUUR": "https://i.pinimg.com/originals/48/ab/12/48ab122506945a4b24770536d1aacf0e.jpg",
+   "BEZIENSWAARDIGHEDEN": "Caledonian bos",
+   "INFOBW": "https://www.visitscotland.com/info/towns-villages/caledonian-forest-p662901",
+   "BWFOTO": "https://treesforlife.org.uk/docs/079_028__079_360__cf_1411122214_original_1443189336_standard.jpg",
+   "BWLOCATIE": "Caledonian bos, Schotland"
+ },
+ {
+   "LANDEN": "Servie",
+   "AFLBEELDINGNATUUR": "https://i.pinimg.com/originals/48/ab/12/48ab122506945a4b24770536d1aacf0e.jpg",
+   "BEZIENSWAARDIGHEDEN": "Serbia’s Golubac Fortress",
+   "INFOBW": "http://www.argophilia.com/news/serbias-golubac-fortress-to-get-makeover/214216/",
+   "BWFOTO": "http://www.argophilia.com/news/wp-content/uploads/2014/04/serbia.jpg",
+   "BWLOCATIE": ""
+ },
+ {
+   "LANDEN": "Spanje",
+   "AFLBEELDINGNATUUR": "http://www.serbiaincoming.com/wp-content/uploads/2015/03/About-Serbia.jpg",
+   "BEZIENSWAARDIGHEDEN": "Museum over Pérez Mouse (Casita Museo de Ratón Pérez)",
+   "INFOBW": "https://www.esmadrid.com/en/tourist-information/casita-museo-de-raton-perez",
+   "BWFOTO": "http://familiasdisfrutonas.es/wp-content/uploads/2015/04/ratonperez03-1100x650.jpg",
+   "BWLOCATIE": "Madrid, Spanje"
+ },
+ {
+   "LANDEN": "Turkije",
+   "AFLBEELDINGNATUUR": "https://www.google.nl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjlpPmjpejWAhVDPVAKHSecBvkQjBwIBA&url=http%3A%2F%2Fwww.wallpapers4u.org%2Fwp-content%2Fuploads%2Fcovadonga_spain_city_nature_hill_castle_44099_1920x1080.jpg&psig=AOvVaw2FtIhTtR4msU_eYxCmPNHv&ust=1507801718875935",
+   "BEZIENSWAARDIGHEDEN": "Uluburun Shipwreck",
+   "INFOBW": "https://en.wikipedia.org/wiki/Uluburun_shipwreck",
+   "BWFOTO": "https://i.pinimg.com/originals/30/54/ed/3054ed723b316204ffe094f1a121203f.jpg",
+   "BWLOCATIE": " Kaş, Turkije"
+ },
+ {
+   "LANDEN": "Zweden",
+   "AFLBEELDINGNATUUR": "http://www.goturkeytourism.com/assets/hero/xnatural-wonders-turkey.jpg.pagespeed.ic.wISm6hz4qR.jpg",
+   "BEZIENSWAARDIGHEDEN": "Een hutje in het bos",
+   "INFOBW": "https://visitsweden.nl/varmland/",
+   "BWFOTO": "https://i.pinimg.com/736x/eb/e3/67/ebe367bf0ca42fb657522d7e297be228--log-home-decorating-small-cabins.jpg",
+   "BWLOCATIE": "Värmland, Zweden"
+ }
 ]
