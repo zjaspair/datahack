@@ -1,4 +1,5 @@
-[{
+{
+   "death": [{
 		"Year": 2015,
 		"Race": "All Races",
 		"Sex": "Both Sexes",
@@ -7307,4 +7308,4 @@
 		"Age_adjusted_Death_Rate": 2613.2
 	}
 ]
-
+}
